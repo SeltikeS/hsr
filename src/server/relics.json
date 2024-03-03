@@ -1,0 +1,3263 @@
+[ {
+  "stars" : 5,
+  "stat" : "ATK",
+  "lvl" : 15,
+  "slot" : "HAND",
+  "set" : "MUSKETEER_OF_WILD_WHEAT",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "ATK_PERCENT" : 7.3,
+    "CRIT_DMG_PERCENT" : 19.4,
+    "EFFECT_HIT_RATE_PERCENT" : 4.3,
+    "BREAK_EFFECT_PERCENT" : 11.6
+  }
+}, {
+  "stars" : 5,
+  "stat" : "HP_PERCENT",
+  "lvl" : 15,
+  "slot" : "LINK_ROPE",
+  "set" : "FLEET_OF_THE_AGELESS",
+  "location" : "Fu Xuan",
+  "oldLocation" : "Fu Xuan",
+  "subStats" : {
+    "HP" : 148,
+    "DEF_PERCENT" : 5.4,
+    "CRIT_RATE_PERCENT" : 8.4,
+    "BREAK_EFFECT_PERCENT" : 5.1
+  }
+}, {
+  "stars" : 5,
+  "stat" : "DEF",
+  "lvl" : 12,
+  "slot" : "BODY",
+  "set" : "GUARD_OF_WUTHERING_SNOW",
+  "location" : "Fu Xuan",
+  "oldLocation" : "Fu Xuan",
+  "subStats" : {
+    "ATK" : 19,
+    "ATK_PERCENT" : 12.0,
+    "CRIT_DMG_PERCENT" : 12.9,
+    "EFFECT_RES_PERCENT" : 4.3
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ATK",
+  "lvl" : 15,
+  "slot" : "HAND",
+  "set" : "MESSENGER_TRAVERSING_HACKERSPACE",
+  "location" : "Kafka",
+  "oldLocation" : "Kafka",
+  "subStats" : {
+    "ATK_PERCENT" : 12.5,
+    "CRIT_DMG_PERCENT" : 17.4,
+    "EFFECT_RES_PERCENT" : 4.3,
+    "BREAK_EFFECT_PERCENT" : 11.0
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ATK",
+  "lvl" : 15,
+  "slot" : "HAND",
+  "set" : "EAGLE_OF_TWILIGHT_LINE",
+  "location" : "Sampo",
+  "oldLocation" : "Sampo",
+  "subStats" : {
+    "DEF" : 21,
+    "CRIT_RATE_PERCENT" : 11.9,
+    "CRIT_DMG_PERCENT" : 11.6,
+    "BREAK_EFFECT_PERCENT" : 10.3
+  }
+}, {
+  "stars" : 5,
+  "stat" : "FIRE_DMG_BOOST",
+  "lvl" : 14,
+  "slot" : "PLANAR_SPHERE",
+  "set" : "FLEET_OF_THE_AGELESS",
+  "location" : "Luocha",
+  "oldLocation" : "Luocha",
+  "subStats" : {
+    "ATK_PERCENT" : 7.7,
+    "CRIT_RATE_PERCENT" : 5.1,
+    "EFFECT_RES_PERCENT" : 3.4,
+    "BREAK_EFFECT_PERCENT" : 12.3
+  }
+}, {
+  "stars" : 5,
+  "stat" : "HP_PERCENT",
+  "lvl" : 12,
+  "slot" : "FEET",
+  "set" : "KNIGHT_OF_PURITY_PALACE",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "HP" : 42,
+    "DEF" : 35,
+    "ATK_PERCENT" : 7.3,
+    "CRIT_RATE_PERCENT" : 5.1
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ATK",
+  "lvl" : 12,
+  "slot" : "HAND",
+  "set" : "PRISONER_IN_DEEP_CONFINEMENT",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "HP_PERCENT" : 3.4,
+    "ATK_PERCENT" : 4.3,
+    "CRIT_RATE_PERCENT" : 6.4,
+    "EFFECT_HIT_RATE_PERCENT" : 15.5
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ATK_PERCENT",
+  "lvl" : 12,
+  "slot" : "LINK_ROPE",
+  "set" : "FLEET_OF_THE_AGELESS",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "HP_PERCENT" : 8.2,
+    "CRIT_DMG_PERCENT" : 10.3,
+    "EFFECT_HIT_RATE_PERCENT" : 3.8,
+    "BREAK_EFFECT_PERCENT" : 11.0
+  }
+}, {
+  "stars" : 5,
+  "stat" : "SPD",
+  "lvl" : 15,
+  "slot" : "FEET",
+  "set" : "LONGEVOUS_DISCIPLE",
+  "location" : "Luka",
+  "oldLocation" : "Luka",
+  "subStats" : {
+    "HP" : 148,
+    "ATK_PERCENT" : 6.9,
+    "EFFECT_HIT_RATE_PERCENT" : 4.3,
+    "BREAK_EFFECT_PERCENT" : 11.6
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ATK",
+  "lvl" : 15,
+  "slot" : "HAND",
+  "set" : "MUSKETEER_OF_WILD_WHEAT",
+  "location" : "Dr Ratio",
+  "oldLocation" : "Dr Ratio",
+  "subStats" : {
+    "HP_PERCENT" : 3.4,
+    "SPD" : 4,
+    "CRIT_DMG_PERCENT" : 24.6,
+    "EFFECT_HIT_RATE_PERCENT" : 8.2
+  }
+}, {
+  "stars" : 5,
+  "stat" : "CRIT_RATE",
+  "lvl" : 15,
+  "slot" : "BODY",
+  "set" : "LONGEVOUS_DISCIPLE",
+  "location" : "Serval",
+  "oldLocation" : "Serval",
+  "subStats" : {
+    "ATK" : 40,
+    "ATK_PERCENT" : 12.0,
+    "DEF_PERCENT" : 8.6,
+    "SPD" : 4
+  }
+}, {
+  "stars" : 5,
+  "stat" : "HP",
+  "lvl" : 15,
+  "slot" : "HEAD",
+  "set" : "MUSKETEER_OF_WILD_WHEAT",
+  "location" : "Dr Ratio",
+  "oldLocation" : "Dr Ratio",
+  "subStats" : {
+    "ATK_PERCENT" : 4.3,
+    "CRIT_RATE_PERCENT" : 5.8,
+    "CRIT_DMG_PERCENT" : 16.2,
+    "EFFECT_RES_PERCENT" : 7.3
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ATK",
+  "lvl" : 15,
+  "slot" : "HAND",
+  "set" : "MUSKETEER_OF_WILD_WHEAT",
+  "location" : "Qingque",
+  "oldLocation" : "Qingque",
+  "subStats" : {
+    "HP" : 33,
+    "ATK_PERCENT" : 18.5,
+    "CRIT_DMG_PERCENT" : 5.8,
+    "EFFECT_RES_PERCENT" : 7.7
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ATK_PERCENT",
+  "lvl" : 15,
+  "slot" : "LINK_ROPE",
+  "set" : "FLEET_OF_THE_AGELESS",
+  "location" : "Kafka",
+  "oldLocation" : "Kafka",
+  "subStats" : {
+    "ATK" : 35,
+    "HP_PERCENT" : 7.3,
+    "CRIT_DMG_PERCENT" : 5.8,
+    "EFFECT_RES_PERCENT" : 11.6
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ATK",
+  "lvl" : 12,
+  "slot" : "HAND",
+  "set" : "MESSENGER_TRAVERSING_HACKERSPACE",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "HP_PERCENT" : 7.3,
+    "SPD" : 2,
+    "CRIT_DMG_PERCENT" : 12.3,
+    "EFFECT_RES_PERCENT" : 8.2
+  }
+}, {
+  "stars" : 5,
+  "stat" : "SPD",
+  "lvl" : 15,
+  "slot" : "FEET",
+  "set" : "GENIUS_OF_BRILLIANT_STARS",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "ATK" : 76,
+    "ATK_PERCENT" : 3.8,
+    "CRIT_RATE_PERCENT" : 3.2,
+    "EFFECT_HIT_RATE_PERCENT" : 12.0
+  }
+}, {
+  "stars" : 5,
+  "stat" : "CRIT_RATE",
+  "lvl" : 15,
+  "slot" : "BODY",
+  "set" : "MUSKETEER_OF_WILD_WHEAT",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "HP" : 33,
+    "ATK" : 50,
+    "CRIT_DMG_PERCENT" : 15.5,
+    "EFFECT_RES_PERCENT" : 3.8
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ATK_PERCENT",
+  "lvl" : 12,
+  "slot" : "BODY",
+  "set" : "LONGEVOUS_DISCIPLE",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "HP_PERCENT" : 7.7,
+    "DEF_PERCENT" : 9.7,
+    "CRIT_RATE_PERCENT" : 5.8,
+    "CRIT_DMG_PERCENT" : 5.1
+  }
+}, {
+  "stars" : 5,
+  "stat" : "FIRE_DMG_BOOST",
+  "lvl" : 15,
+  "slot" : "PLANAR_SPHERE",
+  "set" : "FLEET_OF_THE_AGELESS",
+  "location" : "Topaz & Numby",
+  "oldLocation" : "Topaz & Numby",
+  "subStats" : {
+    "ATK_PERCENT" : 7.7,
+    "SPD" : 2,
+    "CRIT_DMG_PERCENT" : 12.9,
+    "EFFECT_RES_PERCENT" : 11.2
+  }
+}, {
+  "stars" : 5,
+  "stat" : "SPD",
+  "lvl" : 15,
+  "slot" : "FEET",
+  "set" : "THIEF_OF_SHOOTING_METEOR",
+  "location" : "Asta",
+  "oldLocation" : "Asta",
+  "subStats" : {
+    "HP" : 67,
+    "ATK" : 40,
+    "CRIT_RATE_PERCENT" : 5.8,
+    "CRIT_DMG_PERCENT" : 10.3
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ATK_PERCENT",
+  "lvl" : 12,
+  "slot" : "LINK_ROPE",
+  "set" : "FLEET_OF_THE_AGELESS",
+  "location" : "Topaz & Numby",
+  "oldLocation" : "Topaz & Numby",
+  "subStats" : {
+    "DEF" : 38,
+    "HP_PERCENT" : 8.6,
+    "CRIT_RATE_PERCENT" : 8.1,
+    "CRIT_DMG_PERCENT" : 5.1
+  }
+}, {
+  "stars" : 5,
+  "stat" : "HP",
+  "lvl" : 12,
+  "slot" : "HEAD",
+  "set" : "PRISONER_IN_DEEP_CONFINEMENT",
+  "location" : "Qingque",
+  "oldLocation" : "Qingque",
+  "subStats" : {
+    "DEF" : 19,
+    "ATK_PERCENT" : 8.2,
+    "CRIT_DMG_PERCENT" : 19.4,
+    "EFFECT_HIT_RATE_PERCENT" : 3.4
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ATK_PERCENT",
+  "lvl" : 12,
+  "slot" : "BODY",
+  "set" : "MESSENGER_TRAVERSING_HACKERSPACE",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "DEF" : 35,
+    "SPD" : 4,
+    "CRIT_DMG_PERCENT" : 5.8,
+    "EFFECT_RES_PERCENT" : 7.7
+  }
+}, {
+  "stars" : 5,
+  "stat" : "SPD",
+  "lvl" : 12,
+  "slot" : "FEET",
+  "set" : "PRISONER_IN_DEEP_CONFINEMENT",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "ATK" : 21,
+    "DEF" : 16,
+    "ATK_PERCENT" : 11.2,
+    "EFFECT_RES_PERCENT" : 7.7
+  }
+}, {
+  "stars" : 5,
+  "stat" : "BREAK_EFFECT",
+  "lvl" : 15,
+  "slot" : "LINK_ROPE",
+  "set" : "RUTILANT_ARENA",
+  "location" : "Xueyi",
+  "oldLocation" : "Xueyi",
+  "subStats" : {
+    "ATK" : 16,
+    "ATK_PERCENT" : 8.2,
+    "CRIT_RATE_PERCENT" : 9.0,
+    "CRIT_DMG_PERCENT" : 12.9
+  }
+}, {
+  "stars" : 5,
+  "stat" : "HP",
+  "lvl" : 13,
+  "slot" : "HEAD",
+  "set" : "MESSENGER_TRAVERSING_HACKERSPACE",
+  "location" : "Natasha",
+  "oldLocation" : "Natasha",
+  "subStats" : {
+    "HP_PERCENT" : 12.9,
+    "ATK_PERCENT" : 6.9,
+    "SPD" : 2,
+    "CRIT_DMG_PERCENT" : 6.4
+  }
+}, {
+  "stars" : 5,
+  "stat" : "HP_PERCENT",
+  "lvl" : 15,
+  "slot" : "PLANAR_SPHERE",
+  "set" : "FLEET_OF_THE_AGELESS",
+  "location" : "Asta",
+  "oldLocation" : "Asta",
+  "subStats" : {
+    "ATK" : 63,
+    "CRIT_DMG_PERCENT" : 5.1,
+    "EFFECT_RES_PERCENT" : 7.7,
+    "BREAK_EFFECT_PERCENT" : 12.3
+  }
+}, {
+  "stars" : 5,
+  "stat" : "HP_PERCENT",
+  "lvl" : 12,
+  "slot" : "LINK_ROPE",
+  "set" : "FLEET_OF_THE_AGELESS",
+  "location" : "Natasha",
+  "oldLocation" : "Natasha",
+  "subStats" : {
+    "ATK" : 38,
+    "ATK_PERCENT" : 11.6,
+    "SPD" : 2,
+    "CRIT_DMG_PERCENT" : 11.6
+  }
+}, {
+  "stars" : 5,
+  "stat" : "HP_PERCENT",
+  "lvl" : 12,
+  "slot" : "LINK_ROPE",
+  "set" : "FLEET_OF_THE_AGELESS",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "DEF" : 35,
+    "ATK_PERCENT" : 3.4,
+    "SPD" : 2,
+    "CRIT_RATE_PERCENT" : 8.7
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ATK",
+  "lvl" : 15,
+  "slot" : "HAND",
+  "set" : "FIRESMITH_OF_LAVA_FORGING",
+  "location" : "Asta",
+  "oldLocation" : "Asta",
+  "subStats" : {
+    "DEF" : 21,
+    "ATK_PERCENT" : 12.0,
+    "CRIT_DMG_PERCENT" : 5.1,
+    "BREAK_EFFECT_PERCENT" : 16.2
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ATK",
+  "lvl" : 15,
+  "slot" : "HAND",
+  "set" : "GUARD_OF_WUTHERING_SNOW",
+  "location" : "Bailu",
+  "oldLocation" : "Bailu",
+  "subStats" : {
+    "ATK_PERCENT" : 7.3,
+    "SPD" : 5,
+    "CRIT_DMG_PERCENT" : 11.6,
+    "EFFECT_RES_PERCENT" : 7.7
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ATK",
+  "lvl" : 12,
+  "slot" : "HAND",
+  "set" : "THE_ASHBLAZING_GRAND_DUKE",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "DEF_PERCENT" : 10.2,
+    "SPD" : 2,
+    "CRIT_RATE_PERCENT" : 8.1,
+    "BREAK_EFFECT_PERCENT" : 5.8
+  }
+}, {
+  "stars" : 5,
+  "stat" : "WIND_DMG_BOOST",
+  "lvl" : 15,
+  "slot" : "PLANAR_SPHERE",
+  "set" : "FLEET_OF_THE_AGELESS",
+  "location" : "Black Swan",
+  "oldLocation" : "Black Swan",
+  "subStats" : {
+    "HP" : 38,
+    "HP_PERCENT" : 11.2,
+    "ATK_PERCENT" : 7.3,
+    "EFFECT_HIT_RATE_PERCENT" : 12.0
+  }
+}, {
+  "stars" : 5,
+  "stat" : "DEF",
+  "lvl" : 12,
+  "slot" : "LINK_ROPE",
+  "set" : "INERT_SALSOTTO",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "HP" : 67,
+    "ATK_PERCENT" : 8.2,
+    "SPD" : 2,
+    "EFFECT_RES_PERCENT" : 11.6
+  }
+}, {
+  "stars" : 5,
+  "stat" : "HP",
+  "lvl" : 15,
+  "slot" : "HEAD",
+  "set" : "LONGEVOUS_DISCIPLE",
+  "location" : "Blade",
+  "oldLocation" : "Blade",
+  "subStats" : {
+    "DEF" : 40,
+    "HP_PERCENT" : 12.9,
+    "SPD" : 4,
+    "CRIT_DMG_PERCENT" : 6.4
+  }
+}, {
+  "stars" : 5,
+  "stat" : "WIND_DMG_BOOST",
+  "lvl" : 15,
+  "slot" : "PLANAR_SPHERE",
+  "set" : "FLEET_OF_THE_AGELESS",
+  "location" : "Blade",
+  "oldLocation" : "Blade",
+  "subStats" : {
+    "HP" : 38,
+    "HP_PERCENT" : 12.0,
+    "CRIT_DMG_PERCENT" : 12.3,
+    "BREAK_EFFECT_PERCENT" : 11.6
+  }
+}, {
+  "stars" : 5,
+  "stat" : "CRIT_DMG",
+  "lvl" : 15,
+  "slot" : "BODY",
+  "set" : "LONGEVOUS_DISCIPLE",
+  "location" : "Dr Ratio",
+  "oldLocation" : "Dr Ratio",
+  "subStats" : {
+    "HP" : 76,
+    "HP_PERCENT" : 7.3,
+    "CRIT_RATE_PERCENT" : 8.1,
+    "EFFECT_RES_PERCENT" : 3.8
+  }
+}, {
+  "stars" : 5,
+  "stat" : "SPD",
+  "lvl" : 12,
+  "slot" : "FEET",
+  "set" : "PRISONER_IN_DEEP_CONFINEMENT",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "HP_PERCENT" : 15.9,
+    "ATK_PERCENT" : 4.3,
+    "DEF_PERCENT" : 4.3,
+    "EFFECT_HIT_RATE_PERCENT" : 4.3
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ATK",
+  "lvl" : 15,
+  "slot" : "HAND",
+  "set" : "BAND_OF_SIZZLING_THUNDER",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "HP_PERCENT" : 7.7,
+    "ATK_PERCENT" : 6.9,
+    "CRIT_DMG_PERCENT" : 12.3,
+    "BREAK_EFFECT_PERCENT" : 11.0
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ATK_PERCENT",
+  "lvl" : 15,
+  "slot" : "FEET",
+  "set" : "HUNTER_OF_GLACIAL_FOREST",
+  "location" : "Jingliu",
+  "oldLocation" : "Jingliu",
+  "subStats" : {
+    "DEF" : 19,
+    "DEF_PERCENT" : 4.3,
+    "SPD" : 2,
+    "CRIT_RATE_PERCENT" : 15.2
+  }
+}, {
+  "stars" : 5,
+  "stat" : "SPD",
+  "lvl" : 12,
+  "slot" : "FEET",
+  "set" : "MESSENGER_TRAVERSING_HACKERSPACE",
+  "location" : "Tingyun",
+  "oldLocation" : "Tingyun",
+  "subStats" : {
+    "DEF" : 38,
+    "DEF_PERCENT" : 10.2,
+    "EFFECT_HIT_RATE_PERCENT" : 3.8,
+    "BREAK_EFFECT_PERCENT" : 12.3
+  }
+}, {
+  "stars" : 5,
+  "stat" : "SPD",
+  "lvl" : 15,
+  "slot" : "FEET",
+  "set" : "MESSENGER_TRAVERSING_HACKERSPACE",
+  "location" : "Pela",
+  "oldLocation" : "Pela",
+  "subStats" : {
+    "DEF" : 19,
+    "HP_PERCENT" : 19.8,
+    "ATK_PERCENT" : 4.3,
+    "BREAK_EFFECT_PERCENT" : 6.4
+  }
+}, {
+  "stars" : 5,
+  "stat" : "HP_PERCENT",
+  "lvl" : 12,
+  "slot" : "LINK_ROPE",
+  "set" : "BROKEN_KEEL",
+  "location" : "Bailu",
+  "oldLocation" : "Bailu",
+  "subStats" : {
+    "CRIT_RATE_PERCENT" : 2.5,
+    "CRIT_DMG_PERCENT" : 5.8,
+    "EFFECT_RES_PERCENT" : 3.4,
+    "BREAK_EFFECT_PERCENT" : 23.3
+  }
+}, {
+  "stars" : 5,
+  "stat" : "SPD",
+  "lvl" : 15,
+  "slot" : "FEET",
+  "set" : "GUARD_OF_WUTHERING_SNOW",
+  "location" : "Bailu",
+  "oldLocation" : "Bailu",
+  "subStats" : {
+    "HP" : 165,
+    "ATK_PERCENT" : 4.3,
+    "CRIT_DMG_PERCENT" : 5.1,
+    "EFFECT_HIT_RATE_PERCENT" : 8.2
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ATK_PERCENT",
+  "lvl" : 15,
+  "slot" : "LINK_ROPE",
+  "set" : "FLEET_OF_THE_AGELESS",
+  "location" : "Black Swan",
+  "oldLocation" : "Black Swan",
+  "subStats" : {
+    "DEF" : 16,
+    "HP_PERCENT" : 4.3,
+    "EFFECT_HIT_RATE_PERCENT" : 13.8,
+    "BREAK_EFFECT_PERCENT" : 17.4
+  }
+}, {
+  "stars" : 5,
+  "stat" : "HP",
+  "lvl" : 12,
+  "slot" : "HEAD",
+  "set" : "LONGEVOUS_DISCIPLE",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "ATK" : 35,
+    "DEF_PERCENT" : 5.4,
+    "SPD" : 5,
+    "CRIT_DMG_PERCENT" : 12.3
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ATK_PERCENT",
+  "lvl" : 12,
+  "slot" : "FEET",
+  "set" : "THE_ASHBLAZING_GRAND_DUKE",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "HP_PERCENT" : 3.8,
+    "DEF_PERCENT" : 10.2,
+    "SPD" : 2,
+    "CRIT_DMG_PERCENT" : 18.7
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ENERGY_REGENERATION_RATE",
+  "lvl" : 15,
+  "slot" : "LINK_ROPE",
+  "set" : "FLEET_OF_THE_AGELESS",
+  "location" : "Luocha",
+  "oldLocation" : "Luocha",
+  "subStats" : {
+    "DEF" : 57,
+    "HP_PERCENT" : 11.6,
+    "ATK_PERCENT" : 3.8,
+    "SPD" : 4
+  }
+}, {
+  "stars" : 5,
+  "stat" : "HP",
+  "lvl" : 15,
+  "slot" : "HEAD",
+  "set" : "PASSERBY_OF_WANDERING_CLOUD",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "ATK_PERCENT" : 3.4,
+    "SPD" : 6,
+    "EFFECT_HIT_RATE_PERCENT" : 4.3,
+    "EFFECT_RES_PERCENT" : 12.0
+  }
+}, {
+  "stars" : 5,
+  "stat" : "EFFECT_HIT_RATE",
+  "lvl" : 12,
+  "slot" : "BODY",
+  "set" : "MESSENGER_TRAVERSING_HACKERSPACE",
+  "location" : "Pela",
+  "oldLocation" : "Pela",
+  "subStats" : {
+    "ATK_PERCENT" : 7.3,
+    "DEF_PERCENT" : 9.1,
+    "CRIT_RATE_PERCENT" : 5.8,
+    "BREAK_EFFECT_PERCENT" : 5.1
+  }
+}, {
+  "stars" : 5,
+  "stat" : "HP",
+  "lvl" : 12,
+  "slot" : "HEAD",
+  "set" : "MESSENGER_TRAVERSING_HACKERSPACE",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "ATK" : 19,
+    "HP_PERCENT" : 3.4,
+    "SPD" : 4,
+    "CRIT_DMG_PERCENT" : 18.1
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ATK",
+  "lvl" : 12,
+  "slot" : "HAND",
+  "set" : "GENIUS_OF_BRILLIANT_STARS",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "HP_PERCENT" : 6.9,
+    "ATK_PERCENT" : 7.7,
+    "CRIT_DMG_PERCENT" : 5.8,
+    "BREAK_EFFECT_PERCENT" : 12.9
+  }
+}, {
+  "stars" : 5,
+  "stat" : "CRIT_DMG",
+  "lvl" : 15,
+  "slot" : "BODY",
+  "set" : "HUNTER_OF_GLACIAL_FOREST",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "HP" : 84,
+    "DEF" : 40,
+    "ATK_PERCENT" : 12.0,
+    "CRIT_RATE_PERCENT" : 3.2
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ATK",
+  "lvl" : 15,
+  "slot" : "HAND",
+  "set" : "MUSKETEER_OF_WILD_WHEAT",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "HP_PERCENT" : 7.7,
+    "DEF_PERCENT" : 10.2,
+    "CRIT_RATE_PERCENT" : 2.5,
+    "CRIT_DMG_PERCENT" : 23.9
+  }
+}, {
+  "stars" : 5,
+  "stat" : "CRIT_RATE",
+  "lvl" : 15,
+  "slot" : "BODY",
+  "set" : "MESSENGER_TRAVERSING_HACKERSPACE",
+  "location" : "Xueyi",
+  "oldLocation" : "Xueyi",
+  "subStats" : {
+    "ATK" : 38,
+    "HP_PERCENT" : 4.3,
+    "SPD" : 7,
+    "BREAK_EFFECT_PERCENT" : 12.3
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ATK",
+  "lvl" : 15,
+  "slot" : "HAND",
+  "set" : "GUARD_OF_WUTHERING_SNOW",
+  "location" : "Serval",
+  "oldLocation" : "Serval",
+  "subStats" : {
+    "HP_PERCENT" : 15.1,
+    "ATK_PERCENT" : 7.7,
+    "SPD" : 4,
+    "EFFECT_HIT_RATE_PERCENT" : 4.3
+  }
+}, {
+  "stars" : 5,
+  "stat" : "HP",
+  "lvl" : 15,
+  "slot" : "HEAD",
+  "set" : "GUARD_OF_WUTHERING_SNOW",
+  "location" : "Serval",
+  "oldLocation" : "Serval",
+  "subStats" : {
+    "ATK" : 19,
+    "ATK_PERCENT" : 16.4,
+    "CRIT_RATE_PERCENT" : 3.2,
+    "BREAK_EFFECT_PERCENT" : 12.9
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ATK_PERCENT",
+  "lvl" : 12,
+  "slot" : "LINK_ROPE",
+  "set" : "FLEET_OF_THE_AGELESS",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "HP" : 118,
+    "ATK" : 16,
+    "HP_PERCENT" : 8.6,
+    "SPD" : 2
+  }
+}, {
+  "stars" : 5,
+  "stat" : "DEF",
+  "lvl" : 12,
+  "slot" : "PLANAR_SPHERE",
+  "set" : "BROKEN_KEEL",
+  "location" : "Ruan Mei",
+  "oldLocation" : "Ruan Mei",
+  "subStats" : {
+    "HP_PERCENT" : 7.7,
+    "ATK_PERCENT" : 7.7,
+    "EFFECT_RES_PERCENT" : 8.6,
+    "BREAK_EFFECT_PERCENT" : 11.0
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ATK_PERCENT",
+  "lvl" : 15,
+  "slot" : "FEET",
+  "set" : "LONGEVOUS_DISCIPLE",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "ATK" : 19,
+    "HP_PERCENT" : 12.5,
+    "CRIT_RATE_PERCENT" : 5.8,
+    "BREAK_EFFECT_PERCENT" : 16.8
+  }
+}, {
+  "stars" : 5,
+  "stat" : "HP",
+  "lvl" : 15,
+  "slot" : "HEAD",
+  "set" : "MESSENGER_TRAVERSING_HACKERSPACE",
+  "location" : "Jingliu",
+  "oldLocation" : "Jingliu",
+  "subStats" : {
+    "ATK" : 21,
+    "ATK_PERCENT" : 11.6,
+    "CRIT_DMG_PERCENT" : 16.8,
+    "EFFECT_HIT_RATE_PERCENT" : 3.8
+  }
+}, {
+  "stars" : 5,
+  "stat" : "CRIT_RATE",
+  "lvl" : 15,
+  "slot" : "BODY",
+  "set" : "MUSKETEER_OF_WILD_WHEAT",
+  "location" : "Clara",
+  "oldLocation" : "Clara",
+  "subStats" : {
+    "ATK" : 19,
+    "DEF" : 59,
+    "ATK_PERCENT" : 8.6,
+    "CRIT_DMG_PERCENT" : 11.6
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ATK",
+  "lvl" : 12,
+  "slot" : "HAND",
+  "set" : "PRISONER_IN_DEEP_CONFINEMENT",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "ATK_PERCENT" : 4.3,
+    "DEF_PERCENT" : 9.1,
+    "SPD" : 2,
+    "CRIT_RATE_PERCENT" : 9.7
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ATK_PERCENT",
+  "lvl" : 15,
+  "slot" : "FEET",
+  "set" : "PRISONER_IN_DEEP_CONFINEMENT",
+  "location" : "Clara",
+  "oldLocation" : "Clara",
+  "subStats" : {
+    "ATK" : 71,
+    "HP_PERCENT" : 3.4,
+    "CRIT_RATE_PERCENT" : 3.2,
+    "CRIT_DMG_PERCENT" : 11.6
+  }
+}, {
+  "stars" : 5,
+  "stat" : "HP_PERCENT",
+  "lvl" : 12,
+  "slot" : "BODY",
+  "set" : "MESSENGER_TRAVERSING_HACKERSPACE",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "DEF" : 16,
+    "ATK_PERCENT" : 11.2,
+    "SPD" : 2,
+    "CRIT_DMG_PERCENT" : 11.6
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ATK_PERCENT",
+  "lvl" : 12,
+  "slot" : "BODY",
+  "set" : "MESSENGER_TRAVERSING_HACKERSPACE",
+  "location" : "Tingyun",
+  "oldLocation" : "Tingyun",
+  "subStats" : {
+    "ATK" : 16,
+    "HP_PERCENT" : 11.6,
+    "CRIT_DMG_PERCENT" : 10.3,
+    "BREAK_EFFECT_PERCENT" : 12.3
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ATK_PERCENT",
+  "lvl" : 12,
+  "slot" : "PLANAR_SPHERE",
+  "set" : "BROKEN_KEEL",
+  "location" : "Luka",
+  "oldLocation" : "Luka",
+  "subStats" : {
+    "HP" : 80,
+    "SPD" : 4,
+    "EFFECT_RES_PERCENT" : 8.2,
+    "BREAK_EFFECT_PERCENT" : 11.0
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ATK",
+  "lvl" : 12,
+  "slot" : "HAND",
+  "set" : "KNIGHT_OF_PURITY_PALACE",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "HP" : 38,
+    "ATK_PERCENT" : 12.5,
+    "SPD" : 2,
+    "CRIT_RATE_PERCENT" : 5.8
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ATK",
+  "lvl" : 12,
+  "slot" : "HAND",
+  "set" : "THE_ASHBLAZING_GRAND_DUKE",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "HP_PERCENT" : 15.9,
+    "ATK_PERCENT" : 8.2,
+    "CRIT_RATE_PERCENT" : 2.9,
+    "BREAK_EFFECT_PERCENT" : 6.4
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ATK",
+  "lvl" : 12,
+  "slot" : "HAND",
+  "set" : "THIEF_OF_SHOOTING_METEOR",
+  "location" : "Luka",
+  "oldLocation" : "Luka",
+  "subStats" : {
+    "HP_PERCENT" : 4.3,
+    "SPD" : 2,
+    "CRIT_DMG_PERCENT" : 5.1,
+    "EFFECT_RES_PERCENT" : 16.4
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ATK",
+  "lvl" : 12,
+  "slot" : "HAND",
+  "set" : "LONGEVOUS_DISCIPLE",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "ATK_PERCENT" : 12.0,
+    "SPD" : 2,
+    "CRIT_RATE_PERCENT" : 5.5,
+    "EFFECT_HIT_RATE_PERCENT" : 3.4
+  }
+}, {
+  "stars" : 5,
+  "stat" : "OUTGOING_HEALING_BOOST",
+  "lvl" : 12,
+  "slot" : "BODY",
+  "set" : "KNIGHT_OF_PURITY_PALACE",
+  "location" : "Bailu",
+  "oldLocation" : "Bailu",
+  "subStats" : {
+    "HP_PERCENT" : 7.7,
+    "CRIT_RATE_PERCENT" : 6.1,
+    "CRIT_DMG_PERCENT" : 11.0,
+    "BREAK_EFFECT_PERCENT" : 12.3
+  }
+}, {
+  "stars" : 5,
+  "stat" : "HP",
+  "lvl" : 15,
+  "slot" : "HEAD",
+  "set" : "HUNTER_OF_GLACIAL_FOREST",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "HP_PERCENT" : 7.7,
+    "ATK_PERCENT" : 15.1,
+    "DEF_PERCENT" : 4.3,
+    "CRIT_RATE_PERCENT" : 2.9
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ENERGY_REGENERATION_RATE",
+  "lvl" : 15,
+  "slot" : "LINK_ROPE",
+  "set" : "BROKEN_KEEL",
+  "location" : "Luka",
+  "oldLocation" : "Luka",
+  "subStats" : {
+    "ATK" : 42,
+    "HP_PERCENT" : 8.6,
+    "DEF_PERCENT" : 4.8,
+    "EFFECT_HIT_RATE_PERCENT" : 12.0
+  }
+}, {
+  "stars" : 5,
+  "stat" : "CRIT_RATE",
+  "lvl" : 15,
+  "slot" : "BODY",
+  "set" : "LONGEVOUS_DISCIPLE",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "DEF" : 38,
+    "HP_PERCENT" : 8.2,
+    "SPD" : 6,
+    "EFFECT_RES_PERCENT" : 4.3
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ATK_PERCENT",
+  "lvl" : 12,
+  "slot" : "PLANAR_SPHERE",
+  "set" : "FLEET_OF_THE_AGELESS",
+  "location" : "Tingyun",
+  "oldLocation" : "Tingyun",
+  "subStats" : {
+    "ATK" : 16,
+    "HP_PERCENT" : 11.2,
+    "CRIT_RATE_PERCENT" : 5.1,
+    "EFFECT_HIT_RATE_PERCENT" : 3.4
+  }
+}, {
+  "stars" : 5,
+  "stat" : "HP",
+  "lvl" : 15,
+  "slot" : "HEAD",
+  "set" : "FIRESMITH_OF_LAVA_FORGING",
+  "location" : "Asta",
+  "oldLocation" : "Asta",
+  "subStats" : {
+    "ATK" : 19,
+    "DEF" : 16,
+    "CRIT_DMG_PERCENT" : 16.8,
+    "BREAK_EFFECT_PERCENT" : 16.8
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ATK",
+  "lvl" : 15,
+  "slot" : "HAND",
+  "set" : "MESSENGER_TRAVERSING_HACKERSPACE",
+  "location" : "Ruan Mei",
+  "oldLocation" : "Ruan Mei",
+  "subStats" : {
+    "CRIT_RATE_PERCENT" : 2.9,
+    "CRIT_DMG_PERCENT" : 6.4,
+    "EFFECT_RES_PERCENT" : 7.7,
+    "BREAK_EFFECT_PERCENT" : 23.3
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ATK_PERCENT",
+  "lvl" : 12,
+  "slot" : "BODY",
+  "set" : "PRISONER_IN_DEEP_CONFINEMENT",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "DEF_PERCENT" : 4.8,
+    "CRIT_RATE_PERCENT" : 3.2,
+    "EFFECT_HIT_RATE_PERCENT" : 7.7,
+    "BREAK_EFFECT_PERCENT" : 25.2
+  }
+}, {
+  "stars" : 5,
+  "stat" : "HP_PERCENT",
+  "lvl" : 15,
+  "slot" : "FEET",
+  "set" : "MUSKETEER_OF_WILD_WHEAT",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "HP" : 42,
+    "CRIT_RATE_PERCENT" : 8.4,
+    "CRIT_DMG_PERCENT" : 11.6,
+    "BREAK_EFFECT_PERCENT" : 12.3
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ATK",
+  "lvl" : 15,
+  "slot" : "HAND",
+  "set" : "LONGEVOUS_DISCIPLE",
+  "location" : "Natasha",
+  "oldLocation" : "Natasha",
+  "subStats" : {
+    "HP_PERCENT" : 10.8,
+    "SPD" : 4,
+    "CRIT_RATE_PERCENT" : 3.2,
+    "EFFECT_HIT_RATE_PERCENT" : 7.3
+  }
+}, {
+  "stars" : 5,
+  "stat" : "HP",
+  "lvl" : 15,
+  "slot" : "HEAD",
+  "set" : "HUNTER_OF_GLACIAL_FOREST",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "ATK_PERCENT" : 3.4,
+    "CRIT_RATE_PERCENT" : 6.1,
+    "CRIT_DMG_PERCENT" : 11.0,
+    "EFFECT_HIT_RATE_PERCENT" : 11.6
+  }
+}, {
+  "stars" : 5,
+  "stat" : "HP",
+  "lvl" : 12,
+  "slot" : "HEAD",
+  "set" : "THE_ASHBLAZING_GRAND_DUKE",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "ATK" : 40,
+    "HP_PERCENT" : 6.9,
+    "ATK_PERCENT" : 7.3,
+    "SPD" : 2
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ATK",
+  "lvl" : 12,
+  "slot" : "HAND",
+  "set" : "MESSENGER_TRAVERSING_HACKERSPACE",
+  "location" : "Tingyun",
+  "oldLocation" : "Tingyun",
+  "subStats" : {
+    "HP" : 71,
+    "ATK_PERCENT" : 7.7,
+    "CRIT_DMG_PERCENT" : 10.3,
+    "BREAK_EFFECT_PERCENT" : 5.1
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ATK_PERCENT",
+  "lvl" : 15,
+  "slot" : "LINK_ROPE",
+  "set" : "SPACE_SEALING_STATION",
+  "location" : "Sampo",
+  "oldLocation" : "Sampo",
+  "subStats" : {
+    "HP" : 122,
+    "CRIT_RATE_PERCENT" : 9.0,
+    "CRIT_DMG_PERCENT" : 11.0,
+    "EFFECT_HIT_RATE_PERCENT" : 3.8
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ATK_PERCENT",
+  "lvl" : 12,
+  "slot" : "LINK_ROPE",
+  "set" : "BROKEN_KEEL",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "HP_PERCENT" : 3.8,
+    "SPD" : 2,
+    "EFFECT_RES_PERCENT" : 8.2,
+    "BREAK_EFFECT_PERCENT" : 16.8
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ATK",
+  "lvl" : 15,
+  "slot" : "HAND",
+  "set" : "PASSERBY_OF_WANDERING_CLOUD",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "HP_PERCENT" : 7.7,
+    "ATK_PERCENT" : 10.8,
+    "SPD" : 4,
+    "BREAK_EFFECT_PERCENT" : 11.6
+  }
+}, {
+  "stars" : 5,
+  "stat" : "SPD",
+  "lvl" : 12,
+  "slot" : "FEET",
+  "set" : "KNIGHT_OF_PURITY_PALACE",
+  "location" : "Fu Xuan",
+  "oldLocation" : "Fu Xuan",
+  "subStats" : {
+    "ATK" : 16,
+    "DEF" : 38,
+    "DEF_PERCENT" : 9.7,
+    "BREAK_EFFECT_PERCENT" : 11.0
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ATK",
+  "lvl" : 12,
+  "slot" : "HAND",
+  "set" : "KNIGHT_OF_PURITY_PALACE",
+  "location" : "Fu Xuan",
+  "oldLocation" : "Fu Xuan",
+  "subStats" : {
+    "DEF" : 16,
+    "HP_PERCENT" : 4.3,
+    "DEF_PERCENT" : 9.7,
+    "SPD" : 6
+  }
+}, {
+  "stars" : 5,
+  "stat" : "HP_PERCENT",
+  "lvl" : 12,
+  "slot" : "FEET",
+  "set" : "MESSENGER_TRAVERSING_HACKERSPACE",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "ATK_PERCENT" : 6.9,
+    "DEF_PERCENT" : 9.1,
+    "SPD" : 4,
+    "CRIT_RATE_PERCENT" : 3.2
+  }
+}, {
+  "stars" : 5,
+  "stat" : "HP",
+  "lvl" : 12,
+  "slot" : "HEAD",
+  "set" : "MESSENGER_TRAVERSING_HACKERSPACE",
+  "location" : "Pela",
+  "oldLocation" : "Pela",
+  "subStats" : {
+    "ATK" : 19,
+    "ATK_PERCENT" : 11.2,
+    "DEF_PERCENT" : 13.5,
+    "SPD" : 2
+  }
+}, {
+  "stars" : 5,
+  "stat" : "HP",
+  "lvl" : 15,
+  "slot" : "HEAD",
+  "set" : "MUSKETEER_OF_WILD_WHEAT",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "HP_PERCENT" : 7.7,
+    "DEF_PERCENT" : 9.7,
+    "SPD" : 4,
+    "CRIT_DMG_PERCENT" : 12.3
+  }
+}, {
+  "stars" : 5,
+  "stat" : "FIRE_DMG_BOOST",
+  "lvl" : 15,
+  "slot" : "PLANAR_SPHERE",
+  "set" : "INERT_SALSOTTO",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "DEF_PERCENT" : 5.4,
+    "SPD" : 9,
+    "EFFECT_HIT_RATE_PERCENT" : 8.2,
+    "BREAK_EFFECT_PERCENT" : 11.6
+  }
+}, {
+  "stars" : 5,
+  "stat" : "HP",
+  "lvl" : 12,
+  "slot" : "HEAD",
+  "set" : "KNIGHT_OF_PURITY_PALACE",
+  "location" : "Bailu",
+  "oldLocation" : "Bailu",
+  "subStats" : {
+    "HP_PERCENT" : 7.3,
+    "ATK_PERCENT" : 3.8,
+    "SPD" : 4,
+    "EFFECT_RES_PERCENT" : 7.3
+  }
+}, {
+  "stars" : 5,
+  "stat" : "HP_PERCENT",
+  "lvl" : 15,
+  "slot" : "FEET",
+  "set" : "MESSENGER_TRAVERSING_HACKERSPACE",
+  "location" : "Serval",
+  "oldLocation" : "Serval",
+  "subStats" : {
+    "DEF" : 38,
+    "SPD" : 4,
+    "CRIT_RATE_PERCENT" : 9.0,
+    "CRIT_DMG_PERCENT" : 6.4
+  }
+}, {
+  "stars" : 5,
+  "stat" : "HP",
+  "lvl" : 12,
+  "slot" : "HEAD",
+  "set" : "MESSENGER_TRAVERSING_HACKERSPACE",
+  "location" : "Bronya",
+  "oldLocation" : "Bronya",
+  "subStats" : {
+    "ATK" : 38,
+    "CRIT_DMG_PERCENT" : 12.3,
+    "EFFECT_RES_PERCENT" : 7.7,
+    "BREAK_EFFECT_PERCENT" : 11.6
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ATK_PERCENT",
+  "lvl" : 15,
+  "slot" : "LINK_ROPE",
+  "set" : "BROKEN_KEEL",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "CRIT_DMG_PERCENT" : 6.4,
+    "EFFECT_HIT_RATE_PERCENT" : 15.1,
+    "EFFECT_RES_PERCENT" : 3.8,
+    "BREAK_EFFECT_PERCENT" : 16.8
+  }
+}, {
+  "stars" : 5,
+  "stat" : "HP",
+  "lvl" : 15,
+  "slot" : "HEAD",
+  "set" : "MUSKETEER_OF_WILD_WHEAT",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "DEF" : 38,
+    "ATK_PERCENT" : 11.6,
+    "SPD" : 4,
+    "CRIT_DMG_PERCENT" : 6.4
+  }
+}, {
+  "stars" : 5,
+  "stat" : "HP_PERCENT",
+  "lvl" : 12,
+  "slot" : "LINK_ROPE",
+  "set" : "FLEET_OF_THE_AGELESS",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "ATK_PERCENT" : 3.8,
+    "DEF_PERCENT" : 9.7,
+    "CRIT_RATE_PERCENT" : 5.8,
+    "CRIT_DMG_PERCENT" : 12.3
+  }
+}, {
+  "stars" : 5,
+  "stat" : "HP_PERCENT",
+  "lvl" : 13,
+  "slot" : "BODY",
+  "set" : "THIEF_OF_SHOOTING_METEOR",
+  "location" : "Asta",
+  "oldLocation" : "Asta",
+  "subStats" : {
+    "HP" : 38,
+    "DEF_PERCENT" : 14.0,
+    "SPD" : 4,
+    "CRIT_RATE_PERCENT" : 2.9
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ATK_PERCENT",
+  "lvl" : 12,
+  "slot" : "BODY",
+  "set" : "THE_ASHBLAZING_GRAND_DUKE",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "HP" : 42,
+    "SPD" : 5,
+    "CRIT_DMG_PERCENT" : 16.8,
+    "EFFECT_RES_PERCENT" : 3.8
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ATK_PERCENT",
+  "lvl" : 12,
+  "slot" : "BODY",
+  "set" : "MESSENGER_TRAVERSING_HACKERSPACE",
+  "location" : "Luocha",
+  "oldLocation" : "Luocha",
+  "subStats" : {
+    "CRIT_DMG_PERCENT" : 5.8,
+    "EFFECT_HIT_RATE_PERCENT" : 15.5,
+    "EFFECT_RES_PERCENT" : 3.4,
+    "BREAK_EFFECT_PERCENT" : 12.9
+  }
+}, {
+  "stars" : 5,
+  "stat" : "HP",
+  "lvl" : 12,
+  "slot" : "HEAD",
+  "set" : "LONGEVOUS_DISCIPLE",
+  "location" : "Luka",
+  "oldLocation" : "Luka",
+  "subStats" : {
+    "HP_PERCENT" : 8.2,
+    "DEF_PERCENT" : 4.3,
+    "CRIT_DMG_PERCENT" : 6.4,
+    "BREAK_EFFECT_PERCENT" : 16.8
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ENERGY_REGENERATION_RATE",
+  "lvl" : 12,
+  "slot" : "LINK_ROPE",
+  "set" : "FLEET_OF_THE_AGELESS",
+  "location" : "Tingyun",
+  "oldLocation" : "Tingyun",
+  "subStats" : {
+    "HP" : 33,
+    "HP_PERCENT" : 11.6,
+    "EFFECT_HIT_RATE_PERCENT" : 6.9,
+    "BREAK_EFFECT_PERCENT" : 6.4
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ATK",
+  "lvl" : 15,
+  "slot" : "HAND",
+  "set" : "HUNTER_OF_GLACIAL_FOREST",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "ATK_PERCENT" : 11.6,
+    "DEF_PERCENT" : 10.2,
+    "CRIT_RATE_PERCENT" : 6.1,
+    "EFFECT_HIT_RATE_PERCENT" : 3.4
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ATK",
+  "lvl" : 15,
+  "slot" : "HAND",
+  "set" : "LONGEVOUS_DISCIPLE",
+  "location" : "Xueyi",
+  "oldLocation" : "Xueyi",
+  "subStats" : {
+    "HP" : 67,
+    "CRIT_RATE_PERCENT" : 3.2,
+    "CRIT_DMG_PERCENT" : 19.4,
+    "BREAK_EFFECT_PERCENT" : 11.6
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ATK_PERCENT",
+  "lvl" : 15,
+  "slot" : "PLANAR_SPHERE",
+  "set" : "BROKEN_KEEL",
+  "location" : "Qingque",
+  "oldLocation" : "Qingque",
+  "subStats" : {
+    "HP_PERCENT" : 12.5,
+    "CRIT_RATE_PERCENT" : 8.7,
+    "CRIT_DMG_PERCENT" : 6.4,
+    "EFFECT_RES_PERCENT" : 4.3
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ICE_DMG_BOOST",
+  "lvl" : 15,
+  "slot" : "PLANAR_SPHERE",
+  "set" : "FLEET_OF_THE_AGELESS",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "HP_PERCENT" : 3.8,
+    "ATK_PERCENT" : 7.7,
+    "DEF_PERCENT" : 9.7,
+    "CRIT_RATE_PERCENT" : 9.0
+  }
+}, {
+  "stars" : 5,
+  "stat" : "HP_PERCENT",
+  "lvl" : 12,
+  "slot" : "PLANAR_SPHERE",
+  "set" : "FLEET_OF_THE_AGELESS",
+  "location" : "Fu Xuan",
+  "oldLocation" : "Fu Xuan",
+  "subStats" : {
+    "DEF" : 21,
+    "ATK_PERCENT" : 3.4,
+    "SPD" : 4,
+    "EFFECT_RES_PERCENT" : 12.0
+  }
+}, {
+  "stars" : 5,
+  "stat" : "HP_PERCENT",
+  "lvl" : 12,
+  "slot" : "FEET",
+  "set" : "MESSENGER_TRAVERSING_HACKERSPACE",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "ATK_PERCENT" : 11.6,
+    "CRIT_RATE_PERCENT" : 3.2,
+    "CRIT_DMG_PERCENT" : 12.9,
+    "EFFECT_RES_PERCENT" : 8.2
+  }
+}, {
+  "stars" : 5,
+  "stat" : "HP",
+  "lvl" : 15,
+  "slot" : "HEAD",
+  "set" : "THE_ASHBLAZING_GRAND_DUKE",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "DEF" : 61,
+    "SPD" : 4,
+    "CRIT_RATE_PERCENT" : 2.9,
+    "CRIT_DMG_PERCENT" : 12.3
+  }
+}, {
+  "stars" : 5,
+  "stat" : "HP",
+  "lvl" : 15,
+  "slot" : "HEAD",
+  "set" : "MESSENGER_TRAVERSING_HACKERSPACE",
+  "location" : "Tingyun",
+  "oldLocation" : "Tingyun",
+  "subStats" : {
+    "ATK" : 21,
+    "ATK_PERCENT" : 11.6,
+    "CRIT_DMG_PERCENT" : 10.3,
+    "BREAK_EFFECT_PERCENT" : 10.3
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ATK",
+  "lvl" : 15,
+  "slot" : "HAND",
+  "set" : "MUSKETEER_OF_WILD_WHEAT",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "HP_PERCENT" : 7.3,
+    "ATK_PERCENT" : 6.9,
+    "CRIT_RATE_PERCENT" : 9.0,
+    "BREAK_EFFECT_PERCENT" : 11.0
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ATK_PERCENT",
+  "lvl" : 12,
+  "slot" : "PLANAR_SPHERE",
+  "set" : "BROKEN_KEEL",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "HP_PERCENT" : 7.7,
+    "SPD" : 4,
+    "CRIT_RATE_PERCENT" : 5.8,
+    "BREAK_EFFECT_PERCENT" : 5.1
+  }
+}, {
+  "stars" : 5,
+  "stat" : "CRIT_DMG",
+  "lvl" : 12,
+  "slot" : "BODY",
+  "set" : "MESSENGER_TRAVERSING_HACKERSPACE",
+  "location" : "Bronya",
+  "oldLocation" : "Bronya",
+  "subStats" : {
+    "ATK_PERCENT" : 4.3,
+    "EFFECT_HIT_RATE_PERCENT" : 3.8,
+    "EFFECT_RES_PERCENT" : 12.0,
+    "BREAK_EFFECT_PERCENT" : 11.6
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ATK_PERCENT",
+  "lvl" : 15,
+  "slot" : "FEET",
+  "set" : "PRISONER_IN_DEEP_CONFINEMENT",
+  "location" : "Kafka",
+  "oldLocation" : "Kafka",
+  "subStats" : {
+    "ATK" : 35,
+    "SPD" : 2,
+    "CRIT_RATE_PERCENT" : 9.0,
+    "BREAK_EFFECT_PERCENT" : 10.3
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ATK_PERCENT",
+  "lvl" : 15,
+  "slot" : "LINK_ROPE",
+  "set" : "RUTILANT_ARENA",
+  "location" : "Serval",
+  "oldLocation" : "Serval",
+  "subStats" : {
+    "HP_PERCENT" : 4.3,
+    "CRIT_RATE_PERCENT" : 8.4,
+    "EFFECT_HIT_RATE_PERCENT" : 7.3,
+    "EFFECT_RES_PERCENT" : 8.2
+  }
+}, {
+  "stars" : 5,
+  "stat" : "SPD",
+  "lvl" : 15,
+  "slot" : "FEET",
+  "set" : "KNIGHT_OF_PURITY_PALACE",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "ATK_PERCENT" : 12.0,
+    "CRIT_DMG_PERCENT" : 11.6,
+    "EFFECT_HIT_RATE_PERCENT" : 7.7,
+    "BREAK_EFFECT_PERCENT" : 5.8
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ATK_PERCENT",
+  "lvl" : 15,
+  "slot" : "LINK_ROPE",
+  "set" : "RUTILANT_ARENA",
+  "location" : "Jingliu",
+  "oldLocation" : "Jingliu",
+  "subStats" : {
+    "ATK" : 35,
+    "CRIT_RATE_PERCENT" : 2.5,
+    "CRIT_DMG_PERCENT" : 16.8,
+    "BREAK_EFFECT_PERCENT" : 11.6
+  }
+}, {
+  "stars" : 5,
+  "stat" : "HP",
+  "lvl" : 15,
+  "slot" : "HEAD",
+  "set" : "CHAMPION_OF_STREETWISE_BOXING",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "ATK_PERCENT" : 11.2,
+    "CRIT_RATE_PERCENT" : 6.4,
+    "CRIT_DMG_PERCENT" : 6.4,
+    "EFFECT_HIT_RATE_PERCENT" : 8.2
+  }
+}, {
+  "stars" : 5,
+  "stat" : "IMAGINARY_DMG_BOOST",
+  "lvl" : 12,
+  "slot" : "PLANAR_SPHERE",
+  "set" : "INERT_SALSOTTO",
+  "location" : "Dr Ratio",
+  "oldLocation" : "Dr Ratio",
+  "subStats" : {
+    "HP_PERCENT" : 12.5,
+    "ATK_PERCENT" : 3.4,
+    "CRIT_DMG_PERCENT" : 5.8,
+    "BREAK_EFFECT_PERCENT" : 11.0
+  }
+}, {
+  "stars" : 5,
+  "stat" : "SPD",
+  "lvl" : 15,
+  "slot" : "FEET",
+  "set" : "MESSENGER_TRAVERSING_HACKERSPACE",
+  "location" : "Xueyi",
+  "oldLocation" : "Xueyi",
+  "subStats" : {
+    "DEF" : 21,
+    "ATK_PERCENT" : 7.3,
+    "CRIT_DMG_PERCENT" : 12.9,
+    "BREAK_EFFECT_PERCENT" : 15.5
+  }
+}, {
+  "stars" : 5,
+  "stat" : "HP",
+  "lvl" : 15,
+  "slot" : "HEAD",
+  "set" : "MUSKETEER_OF_WILD_WHEAT",
+  "location" : "Clara",
+  "oldLocation" : "Clara",
+  "subStats" : {
+    "ATK_PERCENT" : 12.0,
+    "DEF_PERCENT" : 4.3,
+    "CRIT_RATE_PERCENT" : 5.8,
+    "CRIT_DMG_PERCENT" : 18.7
+  }
+}, {
+  "stars" : 5,
+  "stat" : "CRIT_DMG",
+  "lvl" : 15,
+  "slot" : "BODY",
+  "set" : "THE_ASHBLAZING_GRAND_DUKE",
+  "location" : "Topaz & Numby",
+  "oldLocation" : "Topaz & Numby",
+  "subStats" : {
+    "HP_PERCENT" : 3.4,
+    "SPD" : 8,
+    "EFFECT_HIT_RATE_PERCENT" : 4.3,
+    "BREAK_EFFECT_PERCENT" : 11.6
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ATK",
+  "lvl" : 15,
+  "slot" : "HAND",
+  "set" : "HUNTER_OF_GLACIAL_FOREST",
+  "location" : "Jingliu",
+  "oldLocation" : "Jingliu",
+  "subStats" : {
+    "HP_PERCENT" : 3.4,
+    "SPD" : 14,
+    "CRIT_RATE_PERCENT" : 3.2,
+    "BREAK_EFFECT_PERCENT" : 6.4
+  }
+}, {
+  "stars" : 5,
+  "stat" : "SPD",
+  "lvl" : 15,
+  "slot" : "FEET",
+  "set" : "LONGEVOUS_DISCIPLE",
+  "location" : "Dr Ratio",
+  "oldLocation" : "Dr Ratio",
+  "subStats" : {
+    "ATK" : 55,
+    "HP_PERCENT" : 11.6,
+    "CRIT_RATE_PERCENT" : 2.9,
+    "EFFECT_HIT_RATE_PERCENT" : 4.3
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ATK",
+  "lvl" : 12,
+  "slot" : "HAND",
+  "set" : "MESSENGER_TRAVERSING_HACKERSPACE",
+  "location" : "Bronya",
+  "oldLocation" : "Bronya",
+  "subStats" : {
+    "HP" : 33,
+    "SPD" : 4,
+    "CRIT_DMG_PERCENT" : 18.7,
+    "EFFECT_HIT_RATE_PERCENT" : 7.7
+  }
+}, {
+  "stars" : 5,
+  "stat" : "HP_PERCENT",
+  "lvl" : 15,
+  "slot" : "LINK_ROPE",
+  "set" : "RUTILANT_ARENA",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "ATK" : 80,
+    "SPD" : 2,
+    "CRIT_RATE_PERCENT" : 3.2,
+    "CRIT_DMG_PERCENT" : 11.6
+  }
+}, {
+  "stars" : 5,
+  "stat" : "BREAK_EFFECT",
+  "lvl" : 12,
+  "slot" : "LINK_ROPE",
+  "set" : "BROKEN_KEEL",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "HP_PERCENT" : 8.6,
+    "CRIT_RATE_PERCENT" : 6.1,
+    "CRIT_DMG_PERCENT" : 6.4,
+    "EFFECT_HIT_RATE_PERCENT" : 7.7
+  }
+}, {
+  "stars" : 5,
+  "stat" : "HP",
+  "lvl" : 12,
+  "slot" : "HEAD",
+  "set" : "MESSENGER_TRAVERSING_HACKERSPACE",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "DEF" : 42,
+    "ATK_PERCENT" : 6.9,
+    "CRIT_RATE_PERCENT" : 6.4,
+    "EFFECT_RES_PERCENT" : 4.3
+  }
+}, {
+  "stars" : 5,
+  "stat" : "WIND_DMG_BOOST",
+  "lvl" : 15,
+  "slot" : "PLANAR_SPHERE",
+  "set" : "BROKEN_KEEL",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "ATK_PERCENT" : 7.7,
+    "DEF_PERCENT" : 9.7,
+    "SPD" : 4,
+    "CRIT_DMG_PERCENT" : 12.9
+  }
+}, {
+  "stars" : 5,
+  "stat" : "HP_PERCENT",
+  "lvl" : 15,
+  "slot" : "LINK_ROPE",
+  "set" : "FLEET_OF_THE_AGELESS",
+  "location" : "Blade",
+  "oldLocation" : "Blade",
+  "subStats" : {
+    "HP" : 118,
+    "ATK_PERCENT" : 3.4,
+    "DEF_PERCENT" : 4.8,
+    "SPD" : 7
+  }
+}, {
+  "stars" : 5,
+  "stat" : "HP",
+  "lvl" : 12,
+  "slot" : "HEAD",
+  "set" : "GUARD_OF_WUTHERING_SNOW",
+  "location" : "Fu Xuan",
+  "oldLocation" : "Fu Xuan",
+  "subStats" : {
+    "DEF_PERCENT" : 14.5,
+    "SPD" : 4,
+    "CRIT_DMG_PERCENT" : 6.4,
+    "EFFECT_RES_PERCENT" : 3.8
+  }
+}, {
+  "stars" : 5,
+  "stat" : "CRIT_DMG",
+  "lvl" : 15,
+  "slot" : "BODY",
+  "set" : "MESSENGER_TRAVERSING_HACKERSPACE",
+  "location" : "Jingliu",
+  "oldLocation" : "Jingliu",
+  "subStats" : {
+    "HP_PERCENT" : 4.3,
+    "ATK_PERCENT" : 3.8,
+    "SPD" : 8,
+    "CRIT_RATE_PERCENT" : 5.5
+  }
+}, {
+  "stars" : 5,
+  "stat" : "EFFECT_HIT_RATE",
+  "lvl" : 12,
+  "slot" : "BODY",
+  "set" : "PRISONER_IN_DEEP_CONFINEMENT",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "ATK" : 16,
+    "DEF" : 16,
+    "SPD" : 4,
+    "BREAK_EFFECT_PERCENT" : 17.4
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ATK_PERCENT",
+  "lvl" : 15,
+  "slot" : "LINK_ROPE",
+  "set" : "BROKEN_KEEL",
+  "location" : "Qingque",
+  "oldLocation" : "Qingque",
+  "subStats" : {
+    "CRIT_RATE_PERCENT" : 8.4,
+    "CRIT_DMG_PERCENT" : 17.4,
+    "EFFECT_RES_PERCENT" : 3.4,
+    "BREAK_EFFECT_PERCENT" : 5.8
+  }
+}, {
+  "stars" : 5,
+  "stat" : "DEF",
+  "lvl" : 12,
+  "slot" : "FEET",
+  "set" : "GUARD_OF_WUTHERING_SNOW",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "ATK_PERCENT" : 7.7,
+    "CRIT_RATE_PERCENT" : 8.1,
+    "EFFECT_HIT_RATE_PERCENT" : 7.3,
+    "BREAK_EFFECT_PERCENT" : 5.1
+  }
+}, {
+  "stars" : 5,
+  "stat" : "WIND_DMG_BOOST",
+  "lvl" : 12,
+  "slot" : "PLANAR_SPHERE",
+  "set" : "SPACE_SEALING_STATION",
+  "location" : "Sampo",
+  "oldLocation" : "Sampo",
+  "subStats" : {
+    "ATK" : 35,
+    "HP_PERCENT" : 3.4,
+    "ATK_PERCENT" : 6.9,
+    "BREAK_EFFECT_PERCENT" : 19.4
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ATK",
+  "lvl" : 12,
+  "slot" : "HAND",
+  "set" : "MESSENGER_TRAVERSING_HACKERSPACE",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "DEF_PERCENT" : 4.3,
+    "CRIT_RATE_PERCENT" : 5.5,
+    "CRIT_DMG_PERCENT" : 18.1,
+    "EFFECT_RES_PERCENT" : 3.4
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ATK_PERCENT",
+  "lvl" : 15,
+  "slot" : "PLANAR_SPHERE",
+  "set" : "RUTILANT_ARENA",
+  "location" : "Xueyi",
+  "oldLocation" : "Xueyi",
+  "subStats" : {
+    "SPD" : 2,
+    "CRIT_RATE_PERCENT" : 5.8,
+    "CRIT_DMG_PERCENT" : 11.0,
+    "BREAK_EFFECT_PERCENT" : 18.1
+  }
+}, {
+  "stars" : 5,
+  "stat" : "HP",
+  "lvl" : 15,
+  "slot" : "HEAD",
+  "set" : "MUSKETEER_OF_WILD_WHEAT",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "DEF" : 42,
+    "CRIT_RATE_PERCENT" : 2.5,
+    "CRIT_DMG_PERCENT" : 17.4,
+    "EFFECT_RES_PERCENT" : 8.6
+  }
+}, {
+  "stars" : 5,
+  "stat" : "CRIT_DMG",
+  "lvl" : 15,
+  "slot" : "BODY",
+  "set" : "MESSENGER_TRAVERSING_HACKERSPACE",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "HP_PERCENT" : 4.3,
+    "ATK_PERCENT" : 4.3,
+    "CRIT_RATE_PERCENT" : 6.1,
+    "EFFECT_RES_PERCENT" : 15.1
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ATK",
+  "lvl" : 12,
+  "slot" : "HAND",
+  "set" : "THE_ASHBLAZING_GRAND_DUKE",
+  "location" : "Topaz & Numby",
+  "oldLocation" : "Topaz & Numby",
+  "subStats" : {
+    "ATK_PERCENT" : 7.3,
+    "DEF_PERCENT" : 14.0,
+    "CRIT_RATE_PERCENT" : 2.5,
+    "CRIT_DMG_PERCENT" : 5.8
+  }
+}, {
+  "stars" : 5,
+  "stat" : "PHYSICAL_DMG_BOOST",
+  "lvl" : 12,
+  "slot" : "PLANAR_SPHERE",
+  "set" : "SPACE_SEALING_STATION",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "ATK_PERCENT" : 6.9,
+    "CRIT_DMG_PERCENT" : 11.6,
+    "EFFECT_HIT_RATE_PERCENT" : 8.2,
+    "BREAK_EFFECT_PERCENT" : 5.1
+  }
+}, {
+  "stars" : 5,
+  "stat" : "SPD",
+  "lvl" : 15,
+  "slot" : "FEET",
+  "set" : "LONGEVOUS_DISCIPLE",
+  "location" : "Blade",
+  "oldLocation" : "Blade",
+  "subStats" : {
+    "HP_PERCENT" : 7.3,
+    "CRIT_RATE_PERCENT" : 8.7,
+    "EFFECT_HIT_RATE_PERCENT" : 7.3,
+    "EFFECT_RES_PERCENT" : 3.4
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ATK_PERCENT",
+  "lvl" : 15,
+  "slot" : "LINK_ROPE",
+  "set" : "SPACE_SEALING_STATION",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "DEF_PERCENT" : 9.7,
+    "SPD" : 8,
+    "CRIT_DMG_PERCENT" : 5.8,
+    "EFFECT_HIT_RATE_PERCENT" : 3.8
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ATK",
+  "lvl" : 12,
+  "slot" : "HAND",
+  "set" : "LONGEVOUS_DISCIPLE",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "ATK_PERCENT" : 12.0,
+    "CRIT_RATE_PERCENT" : 6.4,
+    "CRIT_DMG_PERCENT" : 6.4,
+    "EFFECT_HIT_RATE_PERCENT" : 7.7
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ATK_PERCENT",
+  "lvl" : 15,
+  "slot" : "LINK_ROPE",
+  "set" : "INERT_SALSOTTO",
+  "location" : "Dr Ratio",
+  "oldLocation" : "Dr Ratio",
+  "subStats" : {
+    "ATK" : 40,
+    "SPD" : 2,
+    "CRIT_RATE_PERCENT" : 5.5,
+    "BREAK_EFFECT_PERCENT" : 17.4
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ATK_PERCENT",
+  "lvl" : 12,
+  "slot" : "BODY",
+  "set" : "MESSENGER_TRAVERSING_HACKERSPACE",
+  "location" : "Ruan Mei",
+  "oldLocation" : "Ruan Mei",
+  "subStats" : {
+    "CRIT_RATE_PERCENT" : 2.5,
+    "EFFECT_HIT_RATE_PERCENT" : 4.3,
+    "EFFECT_RES_PERCENT" : 3.4,
+    "BREAK_EFFECT_PERCENT" : 24.6
+  }
+}, {
+  "stars" : 5,
+  "stat" : "HP_PERCENT",
+  "lvl" : 12,
+  "slot" : "FEET",
+  "set" : "GUARD_OF_WUTHERING_SNOW",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "SPD" : 2,
+    "CRIT_RATE_PERCENT" : 5.5,
+    "CRIT_DMG_PERCENT" : 11.0,
+    "BREAK_EFFECT_PERCENT" : 11.6
+  }
+}, {
+  "stars" : 5,
+  "stat" : "SPD",
+  "lvl" : 12,
+  "slot" : "FEET",
+  "set" : "EAGLE_OF_TWILIGHT_LINE",
+  "location" : "Sampo",
+  "oldLocation" : "Sampo",
+  "subStats" : {
+    "ATK" : 40,
+    "ATK_PERCENT" : 3.4,
+    "CRIT_RATE_PERCENT" : 6.1,
+    "EFFECT_RES_PERCENT" : 6.9
+  }
+}, {
+  "stars" : 5,
+  "stat" : "HP",
+  "lvl" : 12,
+  "slot" : "HEAD",
+  "set" : "THE_ASHBLAZING_GRAND_DUKE",
+  "location" : "Topaz & Numby",
+  "oldLocation" : "Topaz & Numby",
+  "subStats" : {
+    "ATK_PERCENT" : 4.3,
+    "SPD" : 2,
+    "CRIT_RATE_PERCENT" : 9.7,
+    "EFFECT_HIT_RATE_PERCENT" : 8.2
+  }
+}, {
+  "stars" : 5,
+  "stat" : "CRIT_DMG",
+  "lvl" : 12,
+  "slot" : "BODY",
+  "set" : "CHAMPION_OF_STREETWISE_BOXING",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "ATK_PERCENT" : 3.4,
+    "CRIT_RATE_PERCENT" : 3.2,
+    "EFFECT_HIT_RATE_PERCENT" : 15.9,
+    "BREAK_EFFECT_PERCENT" : 5.8
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ATK",
+  "lvl" : 12,
+  "slot" : "HAND",
+  "set" : "PRISONER_IN_DEEP_CONFINEMENT",
+  "location" : "Clara",
+  "oldLocation" : "Clara",
+  "subStats" : {
+    "HP_PERCENT" : 11.6,
+    "ATK_PERCENT" : 3.8,
+    "CRIT_RATE_PERCENT" : 6.1,
+    "CRIT_DMG_PERCENT" : 5.8
+  }
+}, {
+  "stars" : 5,
+  "stat" : "HP_PERCENT",
+  "lvl" : 15,
+  "slot" : "FEET",
+  "set" : "LONGEVOUS_DISCIPLE",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "SPD" : 4,
+    "CRIT_DMG_PERCENT" : 16.8,
+    "EFFECT_HIT_RATE_PERCENT" : 4.3,
+    "BREAK_EFFECT_PERCENT" : 11.6
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ATK",
+  "lvl" : 15,
+  "slot" : "HAND",
+  "set" : "GENIUS_OF_BRILLIANT_STARS",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "ATK_PERCENT" : 3.8,
+    "CRIT_DMG_PERCENT" : 25.2,
+    "EFFECT_HIT_RATE_PERCENT" : 3.8,
+    "BREAK_EFFECT_PERCENT" : 11.0
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ATK_PERCENT",
+  "lvl" : 12,
+  "slot" : "LINK_ROPE",
+  "set" : "FLEET_OF_THE_AGELESS",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "ATK" : 16,
+    "HP_PERCENT" : 3.4,
+    "DEF_PERCENT" : 10.2,
+    "EFFECT_HIT_RATE_PERCENT" : 11.2
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ATK_PERCENT",
+  "lvl" : 15,
+  "slot" : "FEET",
+  "set" : "THIEF_OF_SHOOTING_METEOR",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "DEF_PERCENT" : 14.0,
+    "CRIT_RATE_PERCENT" : 2.5,
+    "CRIT_DMG_PERCENT" : 17.4,
+    "BREAK_EFFECT_PERCENT" : 6.4
+  }
+}, {
+  "stars" : 5,
+  "stat" : "HP",
+  "lvl" : 12,
+  "slot" : "HEAD",
+  "set" : "LONGEVOUS_DISCIPLE",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "DEF" : 16,
+    "HP_PERCENT" : 3.4,
+    "ATK_PERCENT" : 12.5,
+    "SPD" : 4
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ATK_PERCENT",
+  "lvl" : 15,
+  "slot" : "LINK_ROPE",
+  "set" : "INERT_SALSOTTO",
+  "location" : "Clara",
+  "oldLocation" : "Clara",
+  "subStats" : {
+    "CRIT_RATE_PERCENT" : 6.1,
+    "CRIT_DMG_PERCENT" : 18.1,
+    "EFFECT_HIT_RATE_PERCENT" : 7.7,
+    "EFFECT_RES_PERCENT" : 3.4
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ATK",
+  "lvl" : 12,
+  "slot" : "HAND",
+  "set" : "PRISONER_IN_DEEP_CONFINEMENT",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "HP_PERCENT" : 3.4,
+    "ATK_PERCENT" : 12.0,
+    "CRIT_RATE_PERCENT" : 5.8,
+    "EFFECT_HIT_RATE_PERCENT" : 3.8
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ATK",
+  "lvl" : 12,
+  "slot" : "HAND",
+  "set" : "THIEF_OF_SHOOTING_METEOR",
+  "location" : "Luocha",
+  "oldLocation" : "Luocha",
+  "subStats" : {
+    "HP" : 76,
+    "ATK_PERCENT" : 8.2,
+    "CRIT_DMG_PERCENT" : 5.1,
+    "BREAK_EFFECT_PERCENT" : 11.6
+  }
+}, {
+  "stars" : 5,
+  "stat" : "LIGHTNING_DMG_BOOST",
+  "lvl" : 15,
+  "slot" : "PLANAR_SPHERE",
+  "set" : "FLEET_OF_THE_AGELESS",
+  "location" : "Kafka",
+  "oldLocation" : "Kafka",
+  "subStats" : {
+    "HP_PERCENT" : 7.3,
+    "SPD" : 7,
+    "CRIT_DMG_PERCENT" : 11.0,
+    "BREAK_EFFECT_PERCENT" : 6.4
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ATK",
+  "lvl" : 12,
+  "slot" : "HAND",
+  "set" : "GENIUS_OF_BRILLIANT_STARS",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "ATK_PERCENT" : 3.8,
+    "DEF_PERCENT" : 8.6,
+    "SPD" : 2,
+    "CRIT_RATE_PERCENT" : 8.1
+  }
+}, {
+  "stars" : 5,
+  "stat" : "CRIT_RATE",
+  "lvl" : 15,
+  "slot" : "BODY",
+  "set" : "LONGEVOUS_DISCIPLE",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "DEF" : 35,
+    "ATK_PERCENT" : 11.2,
+    "SPD" : 5,
+    "BREAK_EFFECT_PERCENT" : 5.8
+  }
+}, {
+  "stars" : 5,
+  "stat" : "QUANTUM_DMG_BOOST",
+  "lvl" : 12,
+  "slot" : "PLANAR_SPHERE",
+  "set" : "RUTILANT_ARENA",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "HP" : 33,
+    "DEF_PERCENT" : 13.5,
+    "CRIT_RATE_PERCENT" : 3.2,
+    "CRIT_DMG_PERCENT" : 17.4
+  }
+}, {
+  "stars" : 5,
+  "stat" : "PHYSICAL_DMG_BOOST",
+  "lvl" : 15,
+  "slot" : "PLANAR_SPHERE",
+  "set" : "INERT_SALSOTTO",
+  "location" : "Clara",
+  "oldLocation" : "Clara",
+  "subStats" : {
+    "ATK" : 42,
+    "DEF" : 93,
+    "HP_PERCENT" : 3.4,
+    "CRIT_DMG_PERCENT" : 6.4
+  }
+}, {
+  "stars" : 5,
+  "stat" : "CRIT_RATE",
+  "lvl" : 15,
+  "slot" : "BODY",
+  "set" : "PASSERBY_OF_WANDERING_CLOUD",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "ATK" : 21,
+    "HP_PERCENT" : 11.6,
+    "CRIT_DMG_PERCENT" : 12.3,
+    "EFFECT_RES_PERCENT" : 7.3
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ATK_PERCENT",
+  "lvl" : 15,
+  "slot" : "PLANAR_SPHERE",
+  "set" : "FLEET_OF_THE_AGELESS",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "CRIT_RATE_PERCENT" : 5.1,
+    "CRIT_DMG_PERCENT" : 12.3,
+    "EFFECT_HIT_RATE_PERCENT" : 3.4,
+    "EFFECT_RES_PERCENT" : 10.3
+  }
+}, {
+  "stars" : 5,
+  "stat" : "CRIT_DMG",
+  "lvl" : 15,
+  "slot" : "BODY",
+  "set" : "EAGLE_OF_TWILIGHT_LINE",
+  "location" : "Sampo",
+  "oldLocation" : "Sampo",
+  "subStats" : {
+    "ATK" : 21,
+    "ATK_PERCENT" : 16.8,
+    "DEF_PERCENT" : 4.3,
+    "BREAK_EFFECT_PERCENT" : 12.3
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ATK",
+  "lvl" : 12,
+  "slot" : "HAND",
+  "set" : "MESSENGER_TRAVERSING_HACKERSPACE",
+  "location" : "Pela",
+  "oldLocation" : "Pela",
+  "subStats" : {
+    "ATK_PERCENT" : 12.9,
+    "CRIT_DMG_PERCENT" : 5.1,
+    "EFFECT_HIT_RATE_PERCENT" : 8.6,
+    "EFFECT_RES_PERCENT" : 3.8
+  }
+}, {
+  "stars" : 5,
+  "stat" : "DEF",
+  "lvl" : 12,
+  "slot" : "LINK_ROPE",
+  "set" : "BELOBOG_OF_THE_ARCHITECTS",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "ATK" : 38,
+    "DEF" : 38,
+    "CRIT_RATE_PERCENT" : 5.8,
+    "CRIT_DMG_PERCENT" : 5.1
+  }
+}, {
+  "stars" : 5,
+  "stat" : "DEF",
+  "lvl" : 12,
+  "slot" : "BODY",
+  "set" : "MESSENGER_TRAVERSING_HACKERSPACE",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "HP" : 80,
+    "ATK_PERCENT" : 3.8,
+    "CRIT_RATE_PERCENT" : 5.1,
+    "CRIT_DMG_PERCENT" : 11.6
+  }
+}, {
+  "stars" : 5,
+  "stat" : "EFFECT_HIT_RATE",
+  "lvl" : 15,
+  "slot" : "BODY",
+  "set" : "THIEF_OF_SHOOTING_METEOR",
+  "location" : "Luka",
+  "oldLocation" : "Luka",
+  "subStats" : {
+    "ATK_PERCENT" : 11.2,
+    "SPD" : 2,
+    "CRIT_DMG_PERCENT" : 11.6,
+    "EFFECT_RES_PERCENT" : 7.7
+  }
+}, {
+  "stars" : 5,
+  "stat" : "LIGHTNING_DMG_BOOST",
+  "lvl" : 12,
+  "slot" : "PLANAR_SPHERE",
+  "set" : "RUTILANT_ARENA",
+  "location" : "Serval",
+  "oldLocation" : "Serval",
+  "subStats" : {
+    "HP" : 71,
+    "DEF" : 16,
+    "ATK_PERCENT" : 4.3,
+    "CRIT_DMG_PERCENT" : 18.7
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ATK",
+  "lvl" : 12,
+  "slot" : "HAND",
+  "set" : "MUSKETEER_OF_WILD_WHEAT",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "HP_PERCENT" : 7.7,
+    "DEF_PERCENT" : 10.8,
+    "CRIT_RATE_PERCENT" : 3.2,
+    "CRIT_DMG_PERCENT" : 11.0
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ATK_PERCENT",
+  "lvl" : 12,
+  "slot" : "BODY",
+  "set" : "PASSERBY_OF_WANDERING_CLOUD",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "DEF_PERCENT" : 5.4,
+    "SPD" : 6,
+    "CRIT_RATE_PERCENT" : 2.9,
+    "EFFECT_HIT_RATE_PERCENT" : 7.3
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ICE_DMG_BOOST",
+  "lvl" : 15,
+  "slot" : "PLANAR_SPHERE",
+  "set" : "RUTILANT_ARENA",
+  "location" : "Jingliu",
+  "oldLocation" : "Jingliu",
+  "subStats" : {
+    "HP" : 67,
+    "ATK" : 55,
+    "CRIT_DMG_PERCENT" : 5.1,
+    "BREAK_EFFECT_PERCENT" : 18.1
+  }
+}, {
+  "stars" : 5,
+  "stat" : "HP_PERCENT",
+  "lvl" : 12,
+  "slot" : "BODY",
+  "set" : "LONGEVOUS_DISCIPLE",
+  "location" : "Natasha",
+  "oldLocation" : "Natasha",
+  "subStats" : {
+    "SPD" : 6,
+    "EFFECT_HIT_RATE_PERCENT" : 4.3,
+    "EFFECT_RES_PERCENT" : 3.4,
+    "BREAK_EFFECT_PERCENT" : 16.8
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ATK_PERCENT",
+  "lvl" : 12,
+  "slot" : "PLANAR_SPHERE",
+  "set" : "RUTILANT_ARENA",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "ATK" : 35,
+    "DEF" : 21,
+    "SPD" : 4,
+    "CRIT_DMG_PERCENT" : 18.1
+  }
+}, {
+  "stars" : 5,
+  "stat" : "HP_PERCENT",
+  "lvl" : 12,
+  "slot" : "BODY",
+  "set" : "KNIGHT_OF_PURITY_PALACE",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "DEF" : 19,
+    "ATK_PERCENT" : 4.3,
+    "CRIT_RATE_PERCENT" : 8.7,
+    "CRIT_DMG_PERCENT" : 16.2
+  }
+}, {
+  "stars" : 5,
+  "stat" : "HP",
+  "lvl" : 15,
+  "slot" : "HEAD",
+  "set" : "PRISONER_IN_DEEP_CONFINEMENT",
+  "location" : "Black Swan",
+  "oldLocation" : "Black Swan",
+  "subStats" : {
+    "ATK" : 55,
+    "ATK_PERCENT" : 11.6,
+    "DEF_PERCENT" : 9.7,
+    "CRIT_DMG_PERCENT" : 6.4
+  }
+}, {
+  "stars" : 5,
+  "stat" : "SPD",
+  "lvl" : 15,
+  "slot" : "FEET",
+  "set" : "MESSENGER_TRAVERSING_HACKERSPACE",
+  "location" : "Black Swan",
+  "oldLocation" : "Black Swan",
+  "subStats" : {
+    "ATK" : 33,
+    "HP_PERCENT" : 3.4,
+    "ATK_PERCENT" : 11.2,
+    "EFFECT_HIT_RATE_PERCENT" : 11.6
+  }
+}, {
+  "stars" : 5,
+  "stat" : "DEF",
+  "lvl" : 12,
+  "slot" : "LINK_ROPE",
+  "set" : "BROKEN_KEEL",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "ATK_PERCENT" : 10.3,
+    "CRIT_RATE_PERCENT" : 2.5,
+    "CRIT_DMG_PERCENT" : 12.3,
+    "BREAK_EFFECT_PERCENT" : 5.8
+  }
+}, {
+  "stars" : 5,
+  "stat" : "HP",
+  "lvl" : 15,
+  "slot" : "HEAD",
+  "set" : "GENIUS_OF_BRILLIANT_STARS",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "ATK" : 35,
+    "CRIT_DMG_PERCENT" : 16.8,
+    "EFFECT_HIT_RATE_PERCENT" : 3.4,
+    "EFFECT_RES_PERCENT" : 7.3
+  }
+}, {
+  "stars" : 5,
+  "stat" : "HP",
+  "lvl" : 15,
+  "slot" : "HEAD",
+  "set" : "BAND_OF_SIZZLING_THUNDER",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "HP_PERCENT" : 11.6,
+    "CRIT_RATE_PERCENT" : 3.2,
+    "CRIT_DMG_PERCENT" : 12.3,
+    "BREAK_EFFECT_PERCENT" : 11.0
+  }
+}, {
+  "stars" : 5,
+  "stat" : "HP_PERCENT",
+  "lvl" : 15,
+  "slot" : "FEET",
+  "set" : "MESSENGER_TRAVERSING_HACKERSPACE",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "ATK_PERCENT" : 15.5,
+    "SPD" : 4,
+    "CRIT_RATE_PERCENT" : 2.9,
+    "CRIT_DMG_PERCENT" : 5.8
+  }
+}, {
+  "stars" : 5,
+  "stat" : "HP",
+  "lvl" : 15,
+  "slot" : "HEAD",
+  "set" : "THIEF_OF_SHOOTING_METEOR",
+  "location" : "Luocha",
+  "oldLocation" : "Luocha",
+  "subStats" : {
+    "ATK" : 55,
+    "CRIT_RATE_PERCENT" : 6.1,
+    "CRIT_DMG_PERCENT" : 6.4,
+    "BREAK_EFFECT_PERCENT" : 11.6
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ATK",
+  "lvl" : 15,
+  "slot" : "HAND",
+  "set" : "MESSENGER_TRAVERSING_HACKERSPACE",
+  "location" : "Black Swan",
+  "oldLocation" : "Black Swan",
+  "subStats" : {
+    "HP_PERCENT" : 3.8,
+    "ATK_PERCENT" : 15.5,
+    "CRIT_DMG_PERCENT" : 5.1,
+    "BREAK_EFFECT_PERCENT" : 12.3
+  }
+}, {
+  "stars" : 5,
+  "stat" : "EFFECT_HIT_RATE",
+  "lvl" : 12,
+  "slot" : "BODY",
+  "set" : "PRISONER_IN_DEEP_CONFINEMENT",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "HP" : 76,
+    "ATK_PERCENT" : 8.6,
+    "CRIT_DMG_PERCENT" : 6.4,
+    "EFFECT_RES_PERCENT" : 8.2
+  }
+}, {
+  "stars" : 5,
+  "stat" : "HP_PERCENT",
+  "lvl" : 12,
+  "slot" : "LINK_ROPE",
+  "set" : "RUTILANT_ARENA",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "HP" : 76,
+    "ATK_PERCENT" : 12.0,
+    "CRIT_RATE_PERCENT" : 2.5,
+    "CRIT_DMG_PERCENT" : 5.8
+  }
+}, {
+  "stars" : 5,
+  "stat" : "SPD",
+  "lvl" : 15,
+  "slot" : "FEET",
+  "set" : "BAND_OF_SIZZLING_THUNDER",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "ATK" : 57,
+    "ATK_PERCENT" : 12.5,
+    "DEF_PERCENT" : 9.1,
+    "BREAK_EFFECT_PERCENT" : 6.4
+  }
+}, {
+  "stars" : 5,
+  "stat" : "CRIT_RATE",
+  "lvl" : 15,
+  "slot" : "BODY",
+  "set" : "GENIUS_OF_BRILLIANT_STARS",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "ATK" : 21,
+    "ATK_PERCENT" : 8.2,
+    "SPD" : 6,
+    "CRIT_DMG_PERCENT" : 11.0
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ENERGY_REGENERATION_RATE",
+  "lvl" : 15,
+  "slot" : "LINK_ROPE",
+  "set" : "BROKEN_KEEL",
+  "location" : "Bronya",
+  "oldLocation" : "Bronya",
+  "subStats" : {
+    "HP" : 71,
+    "ATK" : 59,
+    "CRIT_DMG_PERCENT" : 17.4,
+    "EFFECT_RES_PERCENT" : 3.8
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ATK",
+  "lvl" : 12,
+  "slot" : "HAND",
+  "set" : "LONGEVOUS_DISCIPLE",
+  "location" : "Blade",
+  "oldLocation" : "Blade",
+  "subStats" : {
+    "HP" : 84,
+    "DEF_PERCENT" : 5.4,
+    "SPD" : 2,
+    "CRIT_RATE_PERCENT" : 11.6
+  }
+}, {
+  "stars" : 5,
+  "stat" : "HP_PERCENT",
+  "lvl" : 12,
+  "slot" : "PLANAR_SPHERE",
+  "set" : "BROKEN_KEEL",
+  "location" : "Bronya",
+  "oldLocation" : "Bronya",
+  "subStats" : {
+    "ATK" : 21,
+    "CRIT_RATE_PERCENT" : 5.1,
+    "CRIT_DMG_PERCENT" : 18.7,
+    "BREAK_EFFECT_PERCENT" : 11.0
+  }
+}, {
+  "stars" : 5,
+  "stat" : "CRIT_DMG",
+  "lvl" : 12,
+  "slot" : "BODY",
+  "set" : "LONGEVOUS_DISCIPLE",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "DEF" : 16,
+    "ATK_PERCENT" : 11.2,
+    "CRIT_RATE_PERCENT" : 2.9,
+    "EFFECT_HIT_RATE_PERCENT" : 7.3
+  }
+}, {
+  "stars" : 5,
+  "stat" : "HP_PERCENT",
+  "lvl" : 12,
+  "slot" : "PLANAR_SPHERE",
+  "set" : "BROKEN_KEEL",
+  "location" : "Bailu",
+  "oldLocation" : "Bailu",
+  "subStats" : {
+    "ATK" : 40,
+    "CRIT_RATE_PERCENT" : 2.9,
+    "CRIT_DMG_PERCENT" : 10.3,
+    "EFFECT_RES_PERCENT" : 7.3
+  }
+}, {
+  "stars" : 5,
+  "stat" : "BREAK_EFFECT",
+  "lvl" : 12,
+  "slot" : "LINK_ROPE",
+  "set" : "FLEET_OF_THE_AGELESS",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "HP" : 76,
+    "DEF_PERCENT" : 9.7,
+    "CRIT_RATE_PERCENT" : 2.9,
+    "CRIT_DMG_PERCENT" : 11.6
+  }
+}, {
+  "stars" : 5,
+  "stat" : "CRIT_RATE",
+  "lvl" : 15,
+  "slot" : "BODY",
+  "set" : "LONGEVOUS_DISCIPLE",
+  "location" : "Blade",
+  "oldLocation" : "Blade",
+  "subStats" : {
+    "HP" : 80,
+    "DEF" : 19,
+    "HP_PERCENT" : 4.3,
+    "CRIT_DMG_PERCENT" : 28.5
+  }
+}, {
+  "stars" : 5,
+  "stat" : "SPD",
+  "lvl" : 15,
+  "slot" : "FEET",
+  "set" : "MESSENGER_TRAVERSING_HACKERSPACE",
+  "location" : "Bronya",
+  "oldLocation" : "Bronya",
+  "subStats" : {
+    "HP_PERCENT" : 10.8,
+    "CRIT_DMG_PERCENT" : 6.4,
+    "EFFECT_RES_PERCENT" : 7.3,
+    "BREAK_EFFECT_PERCENT" : 11.6
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ENERGY_REGENERATION_RATE",
+  "lvl" : 12,
+  "slot" : "LINK_ROPE",
+  "set" : "RUTILANT_ARENA",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "ATK" : 38,
+    "ATK_PERCENT" : 8.6,
+    "CRIT_RATE_PERCENT" : 5.8,
+    "CRIT_DMG_PERCENT" : 5.8
+  }
+}, {
+  "stars" : 5,
+  "stat" : "CRIT_DMG",
+  "lvl" : 15,
+  "slot" : "BODY",
+  "set" : "BAND_OF_SIZZLING_THUNDER",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "ATK" : 55,
+    "ATK_PERCENT" : 6.9,
+    "SPD" : 6,
+    "EFFECT_RES_PERCENT" : 3.4
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ATK",
+  "lvl" : 12,
+  "slot" : "HAND",
+  "set" : "LONGEVOUS_DISCIPLE",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "HP" : 33,
+    "ATK_PERCENT" : 6.9,
+    "CRIT_RATE_PERCENT" : 3.2,
+    "CRIT_DMG_PERCENT" : 18.1
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ATK_PERCENT",
+  "lvl" : 12,
+  "slot" : "LINK_ROPE",
+  "set" : "INERT_SALSOTTO",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "HP" : 33,
+    "ATK" : 57,
+    "DEF_PERCENT" : 9.7,
+    "CRIT_DMG_PERCENT" : 5.8
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ENERGY_REGENERATION_RATE",
+  "lvl" : 15,
+  "slot" : "LINK_ROPE",
+  "set" : "FLEET_OF_THE_AGELESS",
+  "location" : "Asta",
+  "oldLocation" : "Asta",
+  "subStats" : {
+    "ATK" : 19,
+    "HP_PERCENT" : 4.3,
+    "ATK_PERCENT" : 7.7,
+    "EFFECT_RES_PERCENT" : 15.5
+  }
+}, {
+  "stars" : 5,
+  "stat" : "SPD",
+  "lvl" : 15,
+  "slot" : "FEET",
+  "set" : "MESSENGER_TRAVERSING_HACKERSPACE",
+  "location" : "Natasha",
+  "oldLocation" : "Natasha",
+  "subStats" : {
+    "HP_PERCENT" : 8.2,
+    "ATK_PERCENT" : 3.4,
+    "CRIT_DMG_PERCENT" : 11.6,
+    "EFFECT_RES_PERCENT" : 11.6
+  }
+}, {
+  "stars" : 5,
+  "stat" : "HP",
+  "lvl" : 15,
+  "slot" : "HEAD",
+  "set" : "EAGLE_OF_TWILIGHT_LINE",
+  "location" : "Sampo",
+  "oldLocation" : "Sampo",
+  "subStats" : {
+    "ATK" : 42,
+    "ATK_PERCENT" : 11.6,
+    "CRIT_RATE_PERCENT" : 5.1,
+    "EFFECT_HIT_RATE_PERCENT" : 6.9
+  }
+}, {
+  "stars" : 5,
+  "stat" : "DEF",
+  "lvl" : 12,
+  "slot" : "PLANAR_SPHERE",
+  "set" : "BROKEN_KEEL",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "HP" : 38,
+    "HP_PERCENT" : 7.7,
+    "CRIT_RATE_PERCENT" : 6.4,
+    "EFFECT_RES_PERCENT" : 12.0
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ATK_PERCENT",
+  "lvl" : 15,
+  "slot" : "BODY",
+  "set" : "MESSENGER_TRAVERSING_HACKERSPACE",
+  "location" : "Kafka",
+  "oldLocation" : "Kafka",
+  "subStats" : {
+    "DEF" : 35,
+    "DEF_PERCENT" : 9.7,
+    "SPD" : 4,
+    "CRIT_RATE_PERCENT" : 5.8
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ENERGY_REGENERATION_RATE",
+  "lvl" : 15,
+  "slot" : "LINK_ROPE",
+  "set" : "FLEET_OF_THE_AGELESS",
+  "location" : "Pela",
+  "oldLocation" : "Pela",
+  "subStats" : {
+    "HP" : 38,
+    "ATK" : 33,
+    "DEF_PERCENT" : 14.0,
+    "EFFECT_HIT_RATE_PERCENT" : 7.3
+  }
+}, {
+  "stars" : 5,
+  "stat" : "HP",
+  "lvl" : 12,
+  "slot" : "HEAD",
+  "set" : "LONGEVOUS_DISCIPLE",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "DEF" : 38,
+    "SPD" : 2,
+    "CRIT_DMG_PERCENT" : 11.6,
+    "BREAK_EFFECT_PERCENT" : 11.6
+  }
+}, {
+  "stars" : 5,
+  "stat" : "HP",
+  "lvl" : 15,
+  "slot" : "HEAD",
+  "set" : "LONGEVOUS_DISCIPLE",
+  "location" : "Xueyi",
+  "oldLocation" : "Xueyi",
+  "subStats" : {
+    "HP_PERCENT" : 3.8,
+    "DEF_PERCENT" : 4.3,
+    "CRIT_RATE_PERCENT" : 8.7,
+    "CRIT_DMG_PERCENT" : 16.2
+  }
+}, {
+  "stars" : 5,
+  "stat" : "SPD",
+  "lvl" : 15,
+  "slot" : "FEET",
+  "set" : "MESSENGER_TRAVERSING_HACKERSPACE",
+  "location" : "Luocha",
+  "oldLocation" : "Luocha",
+  "subStats" : {
+    "DEF_PERCENT" : 5.4,
+    "CRIT_DMG_PERCENT" : 6.4,
+    "EFFECT_RES_PERCENT" : 16.8,
+    "BREAK_EFFECT_PERCENT" : 11.6
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ATK_PERCENT",
+  "lvl" : 15,
+  "slot" : "BODY",
+  "set" : "BAND_OF_SIZZLING_THUNDER",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "DEF_PERCENT" : 9.1,
+    "CRIT_RATE_PERCENT" : 11.0,
+    "EFFECT_RES_PERCENT" : 3.8,
+    "BREAK_EFFECT_PERCENT" : 5.8
+  }
+}, {
+  "stars" : 5,
+  "stat" : "WIND_DMG_BOOST",
+  "lvl" : 12,
+  "slot" : "PLANAR_SPHERE",
+  "set" : "FLEET_OF_THE_AGELESS",
+  "location" : "Pela",
+  "oldLocation" : "Pela",
+  "subStats" : {
+    "HP_PERCENT" : 4.3,
+    "ATK_PERCENT" : 7.3,
+    "CRIT_RATE_PERCENT" : 5.5,
+    "EFFECT_HIT_RATE_PERCENT" : 12.0
+  }
+}, {
+  "stars" : 5,
+  "stat" : "SPD",
+  "lvl" : 15,
+  "slot" : "FEET",
+  "set" : "THIEF_OF_SHOOTING_METEOR",
+  "location" : "Ruan Mei",
+  "oldLocation" : "Ruan Mei",
+  "subStats" : {
+    "HP_PERCENT" : 3.8,
+    "DEF_PERCENT" : 4.8,
+    "EFFECT_RES_PERCENT" : 8.2,
+    "BREAK_EFFECT_PERCENT" : 23.9
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ATK",
+  "lvl" : 12,
+  "slot" : "HAND",
+  "set" : "THE_ASHBLAZING_GRAND_DUKE",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "ATK_PERCENT" : 12.0,
+    "CRIT_DMG_PERCENT" : 5.8,
+    "EFFECT_HIT_RATE_PERCENT" : 3.4,
+    "BREAK_EFFECT_PERCENT" : 11.6
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ENERGY_REGENERATION_RATE",
+  "lvl" : 12,
+  "slot" : "LINK_ROPE",
+  "set" : "BROKEN_KEEL",
+  "location" : "Ruan Mei",
+  "oldLocation" : "Ruan Mei",
+  "subStats" : {
+    "DEF" : 76,
+    "HP_PERCENT" : 3.4,
+    "EFFECT_HIT_RATE_PERCENT" : 3.4,
+    "BREAK_EFFECT_PERCENT" : 6.4
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ATK_PERCENT",
+  "lvl" : 15,
+  "slot" : "BODY",
+  "set" : "PRISONER_IN_DEEP_CONFINEMENT",
+  "location" : "Black Swan",
+  "oldLocation" : "Black Swan",
+  "subStats" : {
+    "DEF" : 78,
+    "SPD" : 2,
+    "CRIT_RATE_PERCENT" : 6.1,
+    "CRIT_DMG_PERCENT" : 5.1
+  }
+}, {
+  "stars" : 5,
+  "stat" : "HP",
+  "lvl" : 15,
+  "slot" : "HEAD",
+  "set" : "THIEF_OF_SHOOTING_METEOR",
+  "location" : "Ruan Mei",
+  "oldLocation" : "Ruan Mei",
+  "subStats" : {
+    "DEF" : 35,
+    "CRIT_RATE_PERCENT" : 6.1,
+    "EFFECT_RES_PERCENT" : 4.3,
+    "BREAK_EFFECT_PERCENT" : 19.4
+  }
+}, {
+  "stars" : 5,
+  "stat" : "HP",
+  "lvl" : 15,
+  "slot" : "HEAD",
+  "set" : "PRISONER_IN_DEEP_CONFINEMENT",
+  "location" : "Kafka",
+  "oldLocation" : "Kafka",
+  "subStats" : {
+    "ATK_PERCENT" : 12.5,
+    "SPD" : 4,
+    "EFFECT_HIT_RATE_PERCENT" : 8.2,
+    "EFFECT_RES_PERCENT" : 3.4
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ATK",
+  "lvl" : 12,
+  "slot" : "HAND",
+  "set" : "MUSKETEER_OF_WILD_WHEAT",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "ATK_PERCENT" : 12.5,
+    "DEF_PERCENT" : 4.3,
+    "CRIT_DMG_PERCENT" : 12.9,
+    "BREAK_EFFECT_PERCENT" : 5.1
+  }
+}, {
+  "stars" : 5,
+  "stat" : "HP",
+  "lvl" : 12,
+  "slot" : "HEAD",
+  "set" : "THIEF_OF_SHOOTING_METEOR",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "DEF_PERCENT" : 8.6,
+    "SPD" : 4,
+    "CRIT_RATE_PERCENT" : 5.1,
+    "EFFECT_HIT_RATE_PERCENT" : 3.4
+  }
+}, {
+  "stars" : 5,
+  "stat" : "BREAK_EFFECT",
+  "lvl" : 12,
+  "slot" : "LINK_ROPE",
+  "set" : "BROKEN_KEEL",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "HP_PERCENT" : 7.3,
+    "CRIT_RATE_PERCENT" : 5.5,
+    "CRIT_DMG_PERCENT" : 6.4,
+    "EFFECT_HIT_RATE_PERCENT" : 7.3
+  }
+}, {
+  "stars" : 5,
+  "stat" : "BREAK_EFFECT",
+  "lvl" : 12,
+  "slot" : "LINK_ROPE",
+  "set" : "SPACE_SEALING_STATION",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "ATK" : 35,
+    "HP_PERCENT" : 7.7,
+    "ATK_PERCENT" : 3.8,
+    "SPD" : 4
+  }
+}, {
+  "stars" : 5,
+  "stat" : "ATK_PERCENT",
+  "lvl" : 12,
+  "slot" : "FEET",
+  "set" : "THE_ASHBLAZING_GRAND_DUKE",
+  "location" : "Topaz & Numby",
+  "oldLocation" : "Topaz & Numby",
+  "subStats" : {
+    "HP_PERCENT" : 12.9,
+    "CRIT_RATE_PERCENT" : 6.1,
+    "CRIT_DMG_PERCENT" : 5.1,
+    "BREAK_EFFECT_PERCENT" : 5.1
+  }
+}, {
+  "stars" : 5,
+  "stat" : "WIND_DMG_BOOST",
+  "lvl" : 15,
+  "slot" : "PLANAR_SPHERE",
+  "set" : "RUTILANT_ARENA",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "ATK_PERCENT" : 4.3,
+    "CRIT_RATE_PERCENT" : 8.4,
+    "EFFECT_HIT_RATE_PERCENT" : 7.7,
+    "EFFECT_RES_PERCENT" : 6.9
+  }
+}, {
+  "stars" : 5,
+  "stat" : "HP_PERCENT",
+  "lvl" : 12,
+  "slot" : "LINK_ROPE",
+  "set" : "INERT_SALSOTTO",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "ATK" : 42,
+    "ATK_PERCENT" : 12.0,
+    "CRIT_RATE_PERCENT" : 5.5,
+    "BREAK_EFFECT_PERCENT" : 5.1
+  }
+}, {
+  "stars" : 5,
+  "stat" : "QUANTUM_DMG_BOOST",
+  "lvl" : 12,
+  "slot" : "PLANAR_SPHERE",
+  "set" : "INERT_SALSOTTO",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "DEF_PERCENT" : 5.4,
+    "CRIT_RATE_PERCENT" : 5.5,
+    "CRIT_DMG_PERCENT" : 10.3,
+    "BREAK_EFFECT_PERCENT" : 12.3
+  }
+}, {
+  "stars" : 5,
+  "stat" : "HP",
+  "lvl" : 15,
+  "slot" : "HEAD",
+  "set" : "GENIUS_OF_BRILLIANT_STARS",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "ATK" : 57,
+    "ATK_PERCENT" : 3.8,
+    "CRIT_RATE_PERCENT" : 8.1,
+    "CRIT_DMG_PERCENT" : 5.8
+  }
+}, {
+  "stars" : 5,
+  "stat" : "HP",
+  "lvl" : 12,
+  "slot" : "HEAD",
+  "set" : "KNIGHT_OF_PURITY_PALACE",
+  "location" : "",
+  "oldLocation" : "",
+  "subStats" : {
+    "ATK" : 33,
+    "ATK_PERCENT" : 10.3,
+    "DEF_PERCENT" : 4.3,
+    "EFFECT_HIT_RATE_PERCENT" : 3.4
+  }
+} ]

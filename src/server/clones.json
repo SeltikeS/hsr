@@ -1,0 +1,2197 @@
+[ {
+  "hp" : 1058.0,
+  "atk" : 476.0,
+  "def" : 264.0,
+  "name" : "A Secret Vow",
+  "path" : "Destruction",
+  "rarity" : 4,
+  "pathToImage" : "https://www.prydwen.gg/static/9c7de7c12904b5458ab5181b264bb33d/bf8e1/1_sm.png",
+  "refinement": [
+    {
+      "dmgBoost" : 20
+    },
+    {
+      "dmgBoost" : 25
+    },
+    {
+      "dmgBoost" : 30
+    },
+    {
+      "dmgBoost" : 35
+    },
+    {
+      "dmgBoost" : 40
+    }
+  ]
+}, {
+  "hp" : 740.0,
+  "atk" : 370.0,
+  "def" : 264.0,
+  "name" : "Adversarial",
+  "path" : "Hunt",
+  "rarity" : 3,
+  "pathToImage" : "https://www.prydwen.gg/static/9ec08f6e107a980509cb756dc0631781/bf8e1/56_sm.png"
+}, {
+  "hp" : 846.0,
+  "atk" : 264.0,
+  "def" : 330.0,
+  "name" : "Amber",
+  "path" : "Preservation",
+  "rarity" : 3,
+  "pathToImage" : "https://www.prydwen.gg/static/59d25f3f6b31c075dd2b61bc6fae02c2/bf8e1/2_sm.png",
+  "refinement": [
+    {
+      "defP" : 16
+    },
+    {
+      "defP" : 20
+    },
+    {
+      "defP" : 24
+    },
+    {
+      "defP" : 28
+    },
+    {
+      "defP" : 32
+    }
+  ]
+}, {
+  "hp" : 1058.0,
+  "atk" : 582.0,
+  "def" : 463.0,
+  "name" : "An Instant Before A Gaze",
+  "path" : "Erudition",
+  "rarity" : 5,
+  "pathToImage" : "https://www.prydwen.gg/static/f8ca9a8ca3790049ffdf5d57be3dec76/bf8e1/87_sm.png",
+  "_comment": "second condition is not processed",
+  "refinement": [
+    {
+      "critDmg" : 36
+    },
+    {
+      "critDmg" : 42
+    },
+    {
+      "critDmg" : 48
+    },
+    {
+      "critDmg" : 54
+    },
+    {
+      "critDmg" : 60
+    }
+  ]
+}, {
+  "hp" : 846.0,
+  "atk" : 317.0,
+  "def" : 264.0,
+  "name" : "Arrows",
+  "path" : "Hunt",
+  "rarity" : 3,
+  "pathToImage" : "https://www.prydwen.gg/static/fe4aae6f7bd99e3e09ef18a732e22af5/bf8e1/4_sm.png",
+  "refinement": [
+    {
+      "critRate" : 12
+    },
+    {
+      "critRate" : 15
+    },
+    {
+      "critRate" : 18
+    },
+    {
+      "critRate" : 21
+    },
+    {
+      "critRate" : 24
+    }
+  ]
+}, {
+  "hp" : 952.0,
+  "atk" : 582.0,
+  "def" : 529.0,
+  "name" : "Baptism of Pure Thought",
+  "path" : "Hunt",
+  "rarity" : 5,
+  "pathToImage" : "https://www.prydwen.gg/static/d1ff5de85790132ea41a15dc5abe5408/bf8e1/106_sm.png",
+  "refinement": [
+    {
+      "critDmg" : 44,
+      "enemyDmgAmplify" : 36,
+      "bonusAtackArmorReduction": 24
+    },
+    {
+      "critDmg" : 50,
+      "enemyDmgAmplify" : 42,
+      "bonusAtackArmorReduction": 28
+    },
+    {
+      "critDmg" : 56,
+      "enemyDmgAmplify" : 48,
+      "bonusAtackArmorReduction": 32
+    },
+    {
+      "critDmg" : 62,
+      "enemyDmgAmplify" : 54,
+      "bonusAtackArmorReduction": 36
+    },
+    {
+      "critDmg" : 68,
+      "enemyDmgAmplify" : 60,
+      "bonusAtackArmorReduction": 40
+    }
+  ]
+}, {
+  "hp" : 1058.0,
+  "atk" : 582.0,
+  "def" : 463.0,
+  "name" : "Before Dawn",
+  "path" : "Erudition",
+  "rarity" : 5,
+  "pathToImage" : "https://www.prydwen.gg/static/ed10a998d72942e18a1bef873c7e8f77/bf8e1/5_sm.png",
+  "refinement": [
+    {
+      "critDmg" : 36,
+      "skillDmgBoost" : 18,
+      "ultDmgBoost": 18,
+      "bonusAtackDmgBoost": 48
+    },
+    {
+      "critDmg" : 42,
+      "skillDmgBoost" : 21,
+      "ultDmgBoost": 21,
+      "bonusAtackDmgBoost": 56
+    },
+    {
+      "critDmg" : 48,
+      "skillDmgBoost" : 24,
+      "ultDmgBoost": 24,
+      "bonusAtackDmgBoost": 64
+    },
+    {
+      "critDmg" : 54,
+      "skillDmgBoost" : 27,
+      "ultDmgBoost": 27,
+      "bonusAtackDmgBoost": 72
+    },
+    {
+      "critDmg" : 60,
+      "skillDmgBoost" : 30,
+      "ultDmgBoost": 30,
+      "bonusAtackDmgBoost": 80
+    }
+  ]
+}, {
+  "hp" : 952.0,
+  "atk" : 476.0,
+  "def" : 330.0,
+  "name" : "Before the Tutorial Mission Starts",
+  "path" : "Nihility",
+  "rarity" : 4,
+  "pathToImage" : "https://www.prydwen.gg/static/75fea1b409c81d80db1912623b1c697b/bf8e1/77_sm.png",
+  "refinement": [
+    {
+      "effectHitRate" : 20
+    },
+    {
+      "effectHitRate" : 25
+    },
+    {
+      "effectHitRate" : 30
+    },
+    {
+      "effectHitRate" : 35
+    },
+    {
+      "effectHitRate" : 40
+    }
+  ]
+}, {
+  "hp" : 1058.0,
+  "atk" : 635.0,
+  "def" : 396.0,
+  "name" : "Brighter Than the Sun",
+  "path" : "Destruction",
+  "rarity" : 5,
+  "pathToImage" : "https://www.prydwen.gg/static/24606ed585e2102ab53c83ab85e850f0/bf8e1/81_sm.png",
+  "refinement": [
+    {
+      "critRate" : 20,
+      "atkP" : 36,
+      "energyRegeneration" : 6
+    },
+    {
+      "critRate" : 25,
+      "atkP" : 42,
+      "energyRegeneration" : 14
+    },
+    {
+      "critRate" : 30,
+      "atkP" : 48,
+      "energyRegeneration" : 16
+    },
+    {
+      "critRate" : 35,
+      "atkP" : 54,
+      "energyRegeneration" : 18
+    },
+    {
+      "critRate" : 40,
+      "atkP" : 60,
+      "energyRegeneration" : 20
+    }
+  ]
+}, {
+  "hp" : 1164.0,
+  "atk" : 529.0,
+  "def" : 463.0,
+  "name" : "But the Battle Isn't Over",
+  "path" : "Harmony",
+  "rarity" : 5,
+  "pathToImage" : "https://www.prydwen.gg/static/931875d55a673889750eebabbace080c/bf8e1/34_sm.png",
+  "refinement": [
+    {
+      "energyRegeneration" : 10
+    },
+    {
+      "energyRegeneration" : 12
+    },
+    {
+      "energyRegeneration" : 14
+    },
+    {
+      "energyRegeneration" : 16
+    },
+    {
+      "energyRegeneration" : 18
+    }
+  ]
+}, {
+  "hp" : 952.0,
+  "atk" : 476.0,
+  "def" : 330.0,
+  "name" : "Carve the Moon, Weave the Clouds",
+  "path" : "Harmony",
+  "rarity" : 4,
+  "pathToImage" : "https://www.prydwen.gg/static/3a56d3253b7fa6a34b8a47ef83dc75d0/bf8e1/52_sm.png"
+}, {
+  "hp" : 846.0,
+  "atk" : 317.0,
+  "def" : 264.0,
+  "name" : "Chorus",
+  "path" : "Harmony",
+  "rarity" : 3,
+  "pathToImage" : "https://www.prydwen.gg/static/93782c5e3eda4ca14e5b7a6248e5b9ad/bf8e1/6_sm.png",
+  "refinement": [
+    {
+      "atkP" : 8
+    },
+    {
+      "atkP" : 9
+    },
+    {
+      "atkP" : 10
+    },
+    {
+      "atkP" : 11
+    },
+    {
+      "atkP" : 12
+    }
+  ]
+}, {
+  "hp" : 846.0,
+  "atk" : 370.0,
+  "def" : 198.0,
+  "name" : "Collapsing Sky",
+  "path" : "Destruction",
+  "rarity" : 3,
+  "pathToImage" : "https://www.prydwen.gg/static/7c396fbe543b48b7b00fd581ccd32474/bf8e1/7_sm.png",
+  "refinement": [
+    {
+      "baseAtackDmgBoost" : 20,
+      "skillDmgBoost": 20
+    },
+    {
+      "baseAtackDmgBoost" : 25,
+      "skillDmgBoost": 25
+    },
+    {
+      "baseAtackDmgBoost" : 30,
+      "skillDmgBoost": 30
+    },
+    {
+      "baseAtackDmgBoost" : 35,
+      "skillDmgBoost": 35
+    },
+    {
+      "baseAtackDmgBoost" : 40,
+      "skillDmgBoost": 40
+    }
+  ]
+}, {
+  "hp" : 952.0,
+  "atk" : 264.0,
+  "def" : 264.0,
+  "name" : "Cornucopia",
+  "path" : "Abundance",
+  "rarity" : 3,
+  "pathToImage" : "https://www.prydwen.gg/static/c617ed5818a7acba50045bdee38bb2f3/bf8e1/8_sm.png",
+  "refinement": [
+    {
+      "healingBoost" : 12
+    },
+    {
+      "healingBoost" : 15
+    },
+    {
+      "healingBoost" : 18
+    },
+    {
+      "healingBoost" : 21
+    },
+    {
+      "healingBoost" : 24
+    }
+  ]
+}, {
+  "hp" : 952.0,
+  "atk" : 529.0,
+  "def" : 463.0,
+  "name" : "Cruising in the Stellar Sea",
+  "path" : "Hunt",
+  "rarity" : 5,
+  "pathToImage" : "https://www.prydwen.gg/static/95481a09fa414883db6b50ee37757320/bf8e1/43_sm.png",
+  "refinement": [
+    {
+      "critRate" : 8,
+      "atkP": 20
+    },
+    {
+      "critRate" : 10,
+      "atkP": 25
+    },
+    {
+      "critRate" : 12,
+      "atkP": 30
+    },
+    {
+      "critRate" : 14,
+      "atkP": 35
+    },
+    {
+      "critRate" : 16,
+      "atkP": 40
+    }
+  ]
+}, {
+  "hp" : 952.0,
+  "atk" : 423.0,
+  "def" : 396.0,
+  "name" : "Dance! Dance! Dance!",
+  "path" : "Harmony",
+  "rarity" : 4,
+  "pathToImage" : "https://www.prydwen.gg/static/413d6d1f46849761f0b088b9d486a5d9/bf8e1/75.png"
+}, {
+  "hp" : 740.0,
+  "atk" : 370.0,
+  "def" : 264.0,
+  "name" : "Darting Arrow",
+  "path" : "Hunt",
+  "rarity" : 3,
+  "pathToImage" : "https://www.prydwen.gg/static/79929e7bed1376496e774d32422d108f/bf8e1/9_sm.png",
+  "refinement": [
+    {
+      "atkP" : 24
+    },
+    {
+      "atkP" : 30
+    },
+    {
+      "atkP" : 36
+    },
+    {
+      "atkP" : 42
+    },
+    {
+      "atkP" : 48
+    }
+  ]
+}, {
+  "hp" : 740.0,
+  "atk" : 370.0,
+  "def" : 264.0,
+  "name" : "Data Bank",
+  "path" : "Erudition",
+  "rarity" : 3,
+  "pathToImage" : "https://www.prydwen.gg/static/8af2d3130d2f0b18a28cafdd51dc8ee5/bf8e1/55_sm.png",
+  "refinement": [
+    {
+      "ultDmgBoost" : 28
+    },
+    {
+      "ultDmgBoost" : 35
+    },
+    {
+      "ultDmgBoost" : 42
+    },
+    {
+      "ultDmgBoost" : 49
+    },
+    {
+      "ultDmgBoost" : 56
+    }
+  ]
+}, {
+  "hp" : 952.0,
+  "atk" : 370.0,
+  "def" : 463.0,
+  "name" : "Day One of My New Life",
+  "path" : "Preservation",
+  "rarity" : 4,
+  "pathToImage" : "https://www.prydwen.gg/static/0d224a47f84785e4a325d27b74facaa8/bf8e1/10_sm.png",
+  "refinement": [
+    {
+      "defP" : 24
+    },
+    {
+      "defP" : 27
+    },
+    {
+      "defP" : 30
+    },
+    {
+      "defP" : 33
+    },
+    {
+      "defP" : 36
+    }
+  ]
+}, {
+  "hp" : 952.0,
+  "atk" : 264.0,
+  "def" : 264.0,
+  "name" : "Defense",
+  "path" : "Preservation",
+  "rarity" : 3,
+  "pathToImage" : "https://www.prydwen.gg/static/6d4c1c107ec46a6b53078cd866e0bea2/bf8e1/11_sm.png"
+}, {
+  "hp" : 953.0,
+  "atk" : 370.0,
+  "def" : 463.0,
+  "name" : "Destiny's Threads Forewoven",
+  "path" : "Preservation",
+  "rarity" : 4,
+  "pathToImage" : "https://www.prydwen.gg/static/f1513fc5ee4ef2d2e192c9f817c51665/bf8e1/114_sm.png",
+  "_comment": "dmg amplify todo",
+  "refinement": [
+    {
+      "effectsResist" : 12
+    },
+    {
+      "effectsResist" : 14
+    },
+    {
+      "effectsResist" : 16
+    },
+    {
+      "effectsResist" : 18
+    },
+    {
+      "effectsResist" : 20
+    }
+  ]
+}, {
+  "hp" : 953.0,
+  "atk" : 423.0,
+  "def" : 397.0,
+  "name" : "Dreamville Adventure",
+  "path" : "Harmony",
+  "rarity" : 4,
+  "pathToImage" : "https://www.prydwen.gg/static/b597df9999e6ae4ee581534115f69581/bf8e1/111_sm.png"
+}, {
+  "hp" : 0.0,
+  "atk" : 0.0,
+  "def" : 0.0,
+  "name" : "Earthly Escapade",
+  "path" : "Harmony",
+  "rarity" : 5,
+  "pathToImage" : "https://www.prydwen.gg/static/e0b8583d9a35e3f134d964523c4b7633/bf8e1/108_sm.png"
+}, {
+  "hp" : 1164.0,
+  "atk" : 582.0,
+  "def" : 396.0,
+  "name" : "Echoes of the Coffin",
+  "path" : "Abundance",
+  "rarity" : 5,
+  "pathToImage" : "https://www.prydwen.gg/static/ce01cdcfb5f932237ec38b6e16723b78/bf8e1/12_sm.png",
+  "refinement": [
+    {
+      "atkP" : 24
+    },
+    {
+      "atkP" : 28
+    },
+    {
+      "atkP" : 32
+    },
+    {
+      "atkP" : 36
+    },
+    {
+      "atkP" : 40
+    }
+  ]
+}, {
+  "hp" : 952.0,
+  "atk" : 476.0,
+  "def" : 330.0,
+  "name" : "Eyes of the Prey",
+  "path" : "Nihility",
+  "rarity" : 4,
+  "pathToImage" : "https://www.prydwen.gg/static/261313a036e9b1d49d1b54957a7526c0/bf8e1/13_sm.png",
+  "refinement": [
+    {
+      "effectHitRate" : 20,
+      "periodicalDmgBoost": 24
+    },
+    {
+      "effectHitRate" : 25,
+      "periodicalDmgBoost": 30
+    },
+    {
+      "effectHitRate" : 30,
+      "periodicalDmgBoost": 36
+    },
+    {
+      "effectHitRate" : 35,
+      "periodicalDmgBoost": 42
+    },
+    {
+      "effectHitRate" : 40,
+      "periodicalDmgBoost": 48
+    }
+  ]
+}, {
+  "hp" : 952.0,
+  "atk" : 476.0,
+  "def" : 330.0,
+  "name" : "Fermata",
+  "path" : "Nihility",
+  "rarity" : 4,
+  "pathToImage" : "https://www.prydwen.gg/static/b38cf8ad2ac154feda9c2f67a011924a/bf8e1/74.png",
+  "refinement": [
+    {
+      "breakEffect" : 16,
+      "dmgBoost": 16
+    },
+    {
+      "breakEffect" : 20,
+      "dmgBoost": 20
+    },
+    {
+      "breakEffect" : 24,
+      "dmgBoost": 24
+    },
+    {
+      "breakEffect" : 28,
+      "dmgBoost": 28
+    },
+    {
+      "breakEffect" : 32,
+      "dmgBoost": 32
+    }
+  ]
+}, {
+  "hp" : 953.0,
+  "atk" : 476.0,
+  "def" : 331.0,
+  "name" : "Final Victor",
+  "path" : "Hunt",
+  "rarity" : 4,
+  "pathToImage" : "https://www.prydwen.gg/static/8e43be18dc1b548063c37c957e09a683/bf8e1/112_sm.png",
+  "refinement": [
+    {
+      "atkP" : 12
+    },
+    {
+      "atkP" : 14
+    },
+    {
+      "atkP" : 16
+    },
+    {
+      "atkP" : 18
+    },
+    {
+      "atkP" : 20
+    }
+  ]
+}, {
+  "hp" : 952.0,
+  "atk" : 317.0,
+  "def" : 198.0,
+  "name" : "Fine Fruit",
+  "path" : "Abundance",
+  "rarity" : 3,
+  "pathToImage" : "https://www.prydwen.gg/static/050612a4ace4566f197cbe37e74c09a6/bf8e1/14_sm.png"
+}, {
+  "hp" : 1058.0,
+  "atk" : 476.0,
+  "def" : 265.0,
+  "name" : "Flames Afar",
+  "path" : "Destruction",
+  "rarity" : 4,
+  "pathToImage" : "https://www.prydwen.gg/static/80c79616db32bf82d564c99e9c781432/bf8e1/113_sm.png"
+}, {
+  "hp" : 846.0,
+  "atk" : 476.0,
+  "def" : 396.0,
+  "name" : "Geniuses' Repose",
+  "path" : "Erudition",
+  "rarity" : 4,
+  "pathToImage" : "https://www.prydwen.gg/static/792a8fee5e0d6aac4e776b08da5fcb55/bf8e1/64_1_.png",
+  "refinement": [
+    {
+      "atkP" : 16,
+      "critDmg": 24
+    },
+    {
+      "atkP" : 20,
+      "critDmg": 30
+    },
+    {
+      "atkP" : 24,
+      "critDmg": 36
+    },
+    {
+      "atkP" : 28,
+      "critDmg": 42
+    },
+    {
+      "atkP" : 32,
+      "critDmg": 48
+    }
+  ]
+}, {
+  "hp" : 952.0,
+  "atk" : 476.0,
+  "def" : 330.0,
+  "name" : "Good Night and Sleep Well",
+  "path" : "Nihility",
+  "rarity" : 4,
+  "pathToImage" : "https://www.prydwen.gg/static/49e01383ee891e54e310cab9f266ae97/bf8e1/15_sm.png",
+  "refinement": [
+    {
+      "dmgBoost" : 36
+    },
+    {
+      "dmgBoost" : 45
+    },
+    {
+      "dmgBoost" : 54
+    },
+    {
+      "dmgBoost" : 63
+    },
+    {
+      "dmgBoost" : 72
+    }
+  ]
+}, {
+  "hp" : 952.0,
+  "atk" : 423.0,
+  "def" : 396.0,
+  "name" : "Hey, Over Here",
+  "path" : "Abundance",
+  "rarity" : 4,
+  "pathToImage" : "https://www.prydwen.gg/static/40a0831c3dc37bdd9e4760dafb29c99b/bf8e1/85_sm.png",
+  "refinement": [
+    {
+      "hpP" : 8,
+      "healingBoost": 16
+    },
+    {
+      "hpP" : 9,
+      "healingBoost": 19
+    },
+    {
+      "hpP" : 10,
+      "healingBoost": 22
+    },
+    {
+      "hpP" : 11,
+      "healingBoost": 25
+    },
+    {
+      "hpP" : 12,
+      "healingBoost": 28
+    }
+  ]
+}, {
+  "hp" : 846.0,
+  "atk" : 317.0,
+  "def" : 264.0,
+  "name" : "Hidden Shadow",
+  "path" : "Nihility",
+  "rarity" : 3,
+  "pathToImage" : "https://www.prydwen.gg/static/8befee6e0ff72ee3138fbcb714ca3d47/bf8e1/84.png"
+}, {
+  "hp" : 1164.0,
+  "atk" : 582.0,
+  "def" : 396.0,
+  "name" : "I Shall Be My Own Sword",
+  "path" : "Destruction",
+  "rarity" : 5,
+  "pathToImage" : "https://www.prydwen.gg/static/e63f53f91b03c784c9b8c05a2e0f8b64/bf8e1/83_sm.png",
+  "refinement": [
+    {
+      "critDmg" : 20,
+      "dmgBoost": 42,
+      "armorReduction": 12
+    },
+    {
+      "critDmg" : 23,
+      "dmgBoost": 49.5,
+      "armorReduction": 14
+    },
+    {
+      "critDmg" : 26,
+      "dmgBoost": 57,
+      "armorReduction": 16
+    },
+    {
+      "critDmg" : 29,
+      "dmgBoost": 64.5,
+      "armorReduction": 18
+    },
+    {
+      "critDmg" : 32,
+      "dmgBoost": 72,
+      "armorReduction": 20
+    }
+  ]
+}, {
+  "hp" : 1058.0,
+  "atk" : 582.0,
+  "def" : 463.0,
+  "name" : "In the Name of the World",
+  "path" : "Nihility",
+  "rarity" : 5,
+  "pathToImage" : "https://www.prydwen.gg/static/3428c825460dd5399f4efb9da9b0e83d/bf8e1/16_sm.png",
+  "refinement": [
+    {
+      "dmgBoost" : 24,
+      "effectHitRate": 18,
+      "atkP": 24
+    },
+    {
+      "dmgBoost" : 28,
+      "effectHitRate": 21,
+      "atkP": 28
+    },
+    {
+      "dmgBoost" : 32,
+      "effectHitRate": 24,
+      "atkP": 32
+    },
+    {
+      "dmgBoost" : 36,
+      "effectHitRate": 27,
+      "atkP": 36
+    },
+    {
+      "dmgBoost" : 40,
+      "effectHitRate": 30,
+      "atkP": 40
+    }
+  ]
+}, {
+  "hp" : 1058.0,
+  "atk" : 582.0,
+  "def" : 463.0,
+  "name" : "In the Night",
+  "path" : "Hunt",
+  "rarity" : 5,
+  "pathToImage" : "https://www.prydwen.gg/static/af94d389d11987a11fa26addddb9a6c1/bf8e1/17_sm.png",
+  "_comment": "process condition",
+  "refinement": [
+    {
+      "dmgBoost" : 18
+    },
+    {
+      "dmgBoost" : 21
+    },
+    {
+      "dmgBoost" : 24
+    },
+    {
+      "dmgBoost" : 27
+    },
+    {
+      "dmgBoost" : 30
+    }
+  ]
+}, {
+  "hp" : 1058.0,
+  "atk" : 582.0,
+  "def" : 463.0,
+  "name" : "Incessant Rain",
+  "path" : "Nihility",
+  "rarity" : 5,
+  "pathToImage" : "https://www.prydwen.gg/static/1c446bb409f3a23b07ff8176f3a14d79/bf8e1/18_sm.png",
+  "refinement": [
+    {
+      "effectHitRate" : 24,
+      "critRate" : 12,
+      "enemyDmgAmplify": 12
+    },
+    {
+      "effectHitRate" : 28,
+      "critRate" : 14,
+      "enemyDmgAmplify": 14
+    },
+    {
+      "effectHitRate" : 32,
+      "critRate" : 16,
+      "enemyDmgAmplify": 16
+    },
+    {
+      "effectHitRate" : 36,
+      "critRate" : 18,
+      "enemyDmgAmplify": 18
+    },
+    {
+      "effectHitRate" : 40,
+      "critRate" : 20,
+      "enemyDmgAmplify": 20
+    }
+  ]
+}, {
+  "hp" : 953.0,
+  "atk" : 476.0,
+  "def" : 331.0,
+  "name" : "Indelible Promise",
+  "path" : "Destruction",
+  "rarity" : 4,
+  "pathToImage" : "https://www.prydwen.gg/static/142c5e8fd4bd668baeaae0e00c70c0d8/bf8e1/109_sm.png",
+  "refinement": [
+    {
+      "breakEffect" : 28,
+      "critRate": 15
+    },
+    {
+      "breakEffect" : 35,
+      "critRate": 18.75
+    },
+    {
+      "breakEffect" : 42,
+      "critRate": 22.5
+    },
+    {
+      "breakEffect" : 49,
+      "critRate": 26.25
+    },
+    {
+      "breakEffect" : 56,
+      "critRate": 30
+    }
+  ]
+}, {
+  "hp" : 1058.0,
+  "atk" : 476.0,
+  "def" : 265.0,
+  "name" : "It's Showtime",
+  "path" : "Nihility",
+  "rarity" : 4,
+  "pathToImage" : "https://www.prydwen.gg/static/29bec25b188bd9fa16b84d85eebb78dc/bf8e1/115_sm.png",
+  "_comment": "second condition is not processed",
+  "refinement": [
+    {
+      "dmgBoost" : 18
+    },
+    {
+      "dmgBoost" : 21
+    },
+    {
+      "dmgBoost" : 24
+    },
+    {
+      "dmgBoost" : 27
+    },
+    {
+      "dmgBoost" : 30
+    }
+  ]
+}, {
+  "hp" : 952.0,
+  "atk" : 423.0,
+  "def" : 396.0,
+  "name" : "Landau's Choice",
+  "path" : "Preservation",
+  "rarity" : 4,
+  "pathToImage" : "https://www.prydwen.gg/static/225f6cceff0407a12cf8eac0bcbae900/bf8e1/19_sm.png",
+  "refinement": [
+    {
+      "dmgReduction" : 16
+    },
+    {
+      "dmgReduction" : 18
+    },
+    {
+      "dmgReduction" : 20
+    },
+    {
+      "dmgReduction" : 22
+    },
+    {
+      "dmgReduction" : 24
+    }
+  ]
+}, {
+  "hp" : 846.0,
+  "atk" : 317.0,
+  "def" : 264.0,
+  "name" : "Loop",
+  "path" : "Nihility",
+  "rarity" : 3,
+  "pathToImage" : "https://www.prydwen.gg/static/12359f7c1d6c23d7e6548d9bd1d3c26b/bf8e1/20_sm.png",
+  "refinement": [
+    {
+      "dmgBoost" : 24
+    },
+    {
+      "dmgBoost" : 30
+    },
+    {
+      "dmgBoost" : 36
+    },
+    {
+      "dmgBoost" : 42
+    },
+    {
+      "dmgBoost" : 48
+    }
+  ]
+}, {
+  "hp" : 846.0,
+  "atk" : 476.0,
+  "def" : 396.0,
+  "name" : "Make the World Clamor",
+  "path" : "Erudition",
+  "rarity" : 4,
+  "pathToImage" : "https://www.prydwen.gg/static/2961f284c0bd1aeeacba2cbc54422907/bf8e1/21_sm.png",
+  "refinement": [
+    {
+      "ultDmgBoost" : 32
+    },
+    {
+      "ultDmgBoost" : 40
+    },
+    {
+      "ultDmgBoost" : 48
+    },
+    {
+      "ultDmgBoost" : 56
+    },
+    {
+      "ultDmgBoost" : 64
+    }
+  ]
+}, {
+  "hp" : 846.0,
+  "atk" : 317.0,
+  "def" : 264.0,
+  "name" : "Mediation",
+  "path" : "Harmony",
+  "rarity" : 3,
+  "pathToImage" : "https://www.prydwen.gg/static/9c38eb9c3de403a0826ecab8f8e7dfbc/bf8e1/85.png"
+}, {
+  "hp" : 952.0,
+  "atk" : 423.0,
+  "def" : 396.0,
+  "name" : "Memories of the Past",
+  "path" : "Harmony",
+  "rarity" : 4,
+  "pathToImage" : "https://www.prydwen.gg/static/72ae0c1d1c7399b609b7138f5d9a801e/bf8e1/22_sm.png",
+  "refinement": [
+    {
+      "breakEffect" : 28
+    },
+    {
+      "breakEffect" : 35
+    },
+    {
+      "breakEffect" : 42
+    },
+    {
+      "breakEffect" : 49
+    },
+    {
+      "breakEffect" : 56
+    }
+  ]
+}, {
+  "hp" : 846.0,
+  "atk" : 317.0,
+  "def" : 264.0,
+  "name" : "Meshing Cogs",
+  "path" : "Harmony",
+  "rarity" : 3,
+  "pathToImage" : "https://www.prydwen.gg/static/c42a7c279683214a89ea28fac49be8b5/bf8e1/23_sm.png"
+}, {
+  "hp" : 1058.0,
+  "atk" : 476.0,
+  "def" : 595.0,
+  "name" : "Moment of Victory",
+  "path" : "Preservation",
+  "rarity" : 5,
+  "pathToImage" : "https://www.prydwen.gg/static/2961fbc55b328b28a927ae3afb1b4033/bf8e1/24_sm.png",
+  "refinement": [
+    {
+      "defP" : 48,
+      "effectHitRate": 24
+    },
+    {
+      "defP" : 56,
+      "effectHitRate": 28
+    },
+    {
+      "defP" : 64,
+      "effectHitRate": 32
+    },
+    {
+      "defP" : 72,
+      "effectHitRate": 36
+    },
+    {
+      "defP" : 80,
+      "effectHitRate": 40
+    }
+  ]
+}, {
+  "hp" : 952.0,
+  "atk" : 317.0,
+  "def" : 198.0,
+  "name" : "Multiplication",
+  "path" : "Abundance",
+  "rarity" : 3,
+  "pathToImage" : "https://www.prydwen.gg/static/5743cab33aad12bca45a7ad245f0f615/bf8e1/81.png"
+}, {
+  "hp" : 846.0,
+  "atk" : 370.0,
+  "def" : 198.0,
+  "name" : "Mutual Demise",
+  "path" : "Destruction",
+  "rarity" : 3,
+  "pathToImage" : "https://www.prydwen.gg/static/e650dad6cc6a2ce5876709a3ab66a7fd/bf8e1/82.png",
+  "refinement": [
+    {
+      "critRate" : 12
+    },
+    {
+      "critRate" : 15
+    },
+    {
+      "critRate" : 18
+    },
+    {
+      "critRate" : 21
+    },
+    {
+      "critRate" : 24
+    }
+  ]
+}, {
+  "hp" : 1164.0,
+  "atk" : 476.0,
+  "def" : 529.0,
+  "name" : "Night of Fright",
+  "path" : "Abundance",
+  "rarity" : 5,
+  "pathToImage" : "https://www.prydwen.gg/static/ab8bc07509a5c5d06c93d624ef9c6578/bf8e1/86_sm.png",
+  "refinement": [
+    {
+      "energyRegeneration" : 12
+    },
+    {
+      "energyRegeneration" : 14
+    },
+    {
+      "energyRegeneration" : 16
+    },
+    {
+      "energyRegeneration" : 18
+    },
+    {
+      "energyRegeneration" : 20
+    }
+  ]
+}, {
+  "hp" : 1164.0,
+  "atk" : 582.0,
+  "def" : 396.0,
+  "name" : "Night on the Milky Way",
+  "path" : "Erudition",
+  "rarity" : 5,
+  "pathToImage" : "https://www.prydwen.gg/static/e0407cd91e9c6a95d0ade9340902ddab/bf8e1/25_sm.png",
+  "refinement": [
+    {
+      "atkP" : 27,
+      "dmgBoost": 30
+    },
+    {
+      "atkP" : 31.5,
+      "dmgBoost": 35
+    },
+    {
+      "atkP" : 36,
+      "dmgBoost": 40
+    },
+    {
+      "atkP" : 40.5,
+      "dmgBoost": 45
+    },
+    {
+      "atkP" : 45,
+      "dmgBoost": 50
+    }
+  ]
+}, {
+  "hp" : 952.0,
+  "atk" : 529.0,
+  "def" : 264.0,
+  "name" : "Nowhere to Run",
+  "path" : "Destruction",
+  "rarity" : 4,
+  "pathToImage" : "https://www.prydwen.gg/static/b5da36b50458401dae3775810fe242ca/bf8e1/53_sm.png",
+  "refinement": [
+    {
+      "atkP" : 24
+    },
+    {
+      "atkP" : 30
+    },
+    {
+      "atkP" : 36
+    },
+    {
+      "atkP" : 42
+    },
+    {
+      "atkP" : 48
+    }
+  ]
+}, {
+  "hp" : 1058.0,
+  "atk" : 529.0,
+  "def" : 396.0,
+  "name" : "On the Fall of an Aeon",
+  "path" : "Destruction",
+  "rarity" : 5,
+  "pathToImage" : "https://www.prydwen.gg/static/e84b9100419cf4d6984d7243afe16ce7/bf8e1/42_sm.png",
+  "refinement": [
+    {
+      "atkP" : 32,
+      "dmgBoost": 12
+    },
+    {
+      "atkP" : 40,
+      "dmgBoost": 15
+    },
+    {
+      "atkP" : 48,
+      "dmgBoost": 18
+    },
+    {
+      "atkP" : 56,
+      "dmgBoost": 21
+    },
+    {
+      "atkP" : 64,
+      "dmgBoost": 24
+    }
+  ]
+}, {
+  "hp" : 952.0,
+  "atk" : 476.0,
+  "def" : 330.0,
+  "name" : "Only Silence Remains",
+  "path" : "Hunt",
+  "rarity" : 4,
+  "pathToImage" : "https://www.prydwen.gg/static/c7e89e126089a44187b1a69794b255ba/bf8e1/26_sm.png",
+  "refinement": [
+    {
+      "atkP" : 16,
+      "critRateAfterCondition": 12
+    },
+    {
+      "atkP" : 20,
+      "critRateAfterCondition": 15
+    },
+    {
+      "atkP" : 24,
+      "critRateAfterCondition": 18
+    },
+    {
+      "atkP" : 28,
+      "critRateAfterCondition": 21
+    },
+    {
+      "atkP" : 32,
+      "critRateAfterCondition": 24
+    }
+  ]
+}, {
+  "hp" : 740.0,
+  "atk" : 370.0,
+  "def" : 264.0,
+  "name" : "Passkey",
+  "path" : "Erudition",
+  "rarity" : 3,
+  "pathToImage" : "https://www.prydwen.gg/static/8f6c733c02d32be5562688947d036213/bf8e1/27_sm.png"
+}, {
+  "hp" : 952.0,
+  "atk" : 423.0,
+  "def" : 396.0,
+  "name" : "Past and Future",
+  "path" : "Harmony",
+  "rarity" : 4,
+  "pathToImage" : "https://www.prydwen.gg/static/e6bd252bade4a9c2fc8553009fbc22a5/bf8e1/76_1_.png"
+}, {
+  "hp" : 1058.0,
+  "atk" : 529.0,
+  "def" : 529.0,
+  "name" : "Past Self in Mirror",
+  "path" : "Harmony",
+  "rarity" : 5,
+  "pathToImage" : "https://www.prydwen.gg/static/62f4090b7816ffdf7dfdeea61df642f3/bf8e1/105_sm.png",
+  "refinement": [
+    {
+      "breakEffect" : 60,
+      "dmgBoost": 24
+    },
+    {
+      "breakEffect" : 70,
+      "dmgBoost": 28
+    },
+    {
+      "breakEffect" : 80,
+      "dmgBoost": 32
+    },
+    {
+      "breakEffect" : 90,
+      "dmgBoost": 36
+    },
+    {
+      "breakEffect" : 100,
+      "dmgBoost": 40
+    }
+  ]
+}, {
+  "hp" : 1058.0,
+  "atk" : 582.0,
+  "def" : 463.0,
+  "name" : "Patience Is All You Need",
+  "path" : "Nihility",
+  "rarity" : 5,
+  "pathToImage" : "https://www.prydwen.gg/static/8f3f24adc70cd9c88a46df3d60e074ee/bf8e1/48_sm.png",
+  "_comment": "second condition is not processed",
+  "refinement": [
+    {
+      "dmgBoost" : 24,
+      "speedMultiplier": 14.4
+    },
+    {
+      "dmgBoost" : 28,
+      "speedMultiplier": 16.8
+    },
+    {
+      "dmgBoost" : 32,
+      "speedMultiplier": 19.2
+    },
+    {
+      "dmgBoost" : 36,
+      "speedMultiplier": 21.6
+    },
+    {
+      "dmgBoost" : 40,
+      "speedMultiplier": 24
+    }
+  ]
+}, {
+  "hp" : 952.0,
+  "atk" : 423.0,
+  "def" : 396.0,
+  "name" : "Perfect Timing",
+  "path" : "Abundance",
+  "rarity" : 4,
+  "pathToImage" : "https://www.prydwen.gg/static/24d2334b04dc4ef92805e7886b70dece/bf8e1/59.png",
+  "_comment": "second condition is not processed",
+  "refinement": [
+    {
+      "effectsResist" : 16
+    },
+    {
+      "effectsResist" : 20
+    },
+    {
+      "effectsResist" : 24
+    },
+    {
+      "effectsResist" : 28
+    },
+    {
+      "effectsResist" : 32
+    }
+  ]
+}, {
+  "hp" : 952.0,
+  "atk" : 264.0,
+  "def" : 264.0,
+  "name" : "Pioneering",
+  "path" : "Preservation",
+  "rarity" : 3,
+  "pathToImage" : "https://www.prydwen.gg/static/1d225828468ec1c60b9f24811a050ff7/bf8e1/83.png"
+}, {
+  "hp" : 1058.0,
+  "atk" : 423.0,
+  "def" : 330.0,
+  "name" : "Planetary Rendezvous",
+  "path" : "Harmony",
+  "rarity" : 4,
+  "pathToImage" : "https://www.prydwen.gg/static/b951f68b04b49c5ad8df6592fd4fdc6f/bf8e1/29_sm.png"
+}, {
+  "hp" : 1058.0,
+  "atk" : 423.0,
+  "def" : 330.0,
+  "name" : "Post-Op Conversation",
+  "path" : "Abundance",
+  "rarity" : 4,
+  "pathToImage" : "https://www.prydwen.gg/static/980d0fe4dd4c0510ab19595b1939d984/bf8e1/30_sm.png",
+  "refinement": [
+    {
+      "energyRegeneration" : 8,
+      "healingBoost": 12
+    },
+    {
+      "energyRegeneration" : 10,
+      "healingBoost": 15
+    },
+    {
+      "energyRegeneration" : 12,
+      "healingBoost": 18
+    },
+    {
+      "energyRegeneration" : 14,
+      "healingBoost": 21
+    },
+    {
+      "energyRegeneration" : 16,
+      "healingBoost": 24
+    }
+  ]
+}, {
+  "hp" : 952.0,
+  "atk" : 423.0,
+  "def" : 396.0,
+  "name" : "Quid Pro Quo",
+  "path" : "Abundance",
+  "rarity" : 4,
+  "pathToImage" : "https://www.prydwen.gg/static/373e5fe59648f1d8ed873494912e3ccf/bf8e1/62.png"
+}, {
+  "hp" : 1058.0,
+  "atk" : 582.0,
+  "def" : 463.0,
+  "name" : "Reforged Remembrance",
+  "path" : "Nihility",
+  "rarity" : 5,
+  "pathToImage" : "https://www.prydwen.gg/static/602cb061205a31d6fda10bbcfb1c2f06/bf8e1/107_sm.png",
+  "_comment": "second condition is not processed",
+  "refinement": [
+    {
+      "effectHitRate" : 40,
+      "atkP": 20
+    },
+    {
+      "effectHitRate" : 45,
+      "atkP": 24
+    },
+    {
+      "effectHitRate" : 50,
+      "atkP": 28
+    },
+    {
+      "effectHitRate" : 55,
+      "atkP": 32
+    },
+    {
+      "effectHitRate" : 60,
+      "atkP": 36
+    }
+  ]
+}, {
+  "hp" : 952.0,
+  "atk" : 476.0,
+  "def" : 330.0,
+  "name" : "Resolution Shines As Pearls of Sweat",
+  "path" : "Nihility",
+  "rarity" : 4,
+  "pathToImage" : "https://www.prydwen.gg/static/1e31ed68f3897ad7be84f972f48cf243/bf8e1/58.png",
+  "refinement": [
+    {
+      "armorReduction" : 12
+    },
+    {
+      "armorReduction" : 13
+    },
+    {
+      "armorReduction" : 14
+    },
+    {
+      "armorReduction" : 15
+    },
+    {
+      "armorReduction" : 16
+    }
+  ]
+}, {
+  "hp" : 846.0,
+  "atk" : 529.0,
+  "def" : 330.0,
+  "name" : "Return to Darkness",
+  "path" : "Hunt",
+  "rarity" : 4,
+  "pathToImage" : "https://www.prydwen.gg/static/94bb0e0f33690532c70d54dfb1335794/bf8e1/51_sm.png",
+  "refinement": [
+    {
+      "critRate" : 12
+    },
+    {
+      "critRate" : 15
+    },
+    {
+      "critRate" : 18
+    },
+    {
+      "critRate" : 21
+    },
+    {
+      "critRate" : 24
+    }
+  ]
+}, {
+  "hp" : 846.0,
+  "atk" : 476.0,
+  "def" : 396.0,
+  "name" : "River Flows in Spring",
+  "path" : "Hunt",
+  "rarity" : 4,
+  "pathToImage" : "https://www.prydwen.gg/static/430e6fdb82d955253b27d8406d9fd71a/bf8e1/66_s.png",
+  "refinement": [
+    {
+      "speedMultiplier" : 8,
+      "dmgBoost": 12
+    },
+    {
+      "speedMultiplier" : 9,
+      "dmgBoost": 15
+    },
+    {
+      "speedMultiplier" : 10,
+      "dmgBoost": 18
+    },
+    {
+      "speedMultiplier" : 11,
+      "dmgBoost": 21
+    },
+    {
+      "speedMultiplier" : 12,
+      "dmgBoost": 23
+    }
+  ]
+}, {
+  "hp" : 740.0,
+  "atk" : 370.0,
+  "def" : 264.0,
+  "name" : "Sagacity",
+  "path" : "Erudition",
+  "rarity" : 3,
+  "pathToImage" : "https://www.prydwen.gg/static/093ac77f3c7b056fb9a397469f99e702/bf8e1/86.png",
+  "refinement": [
+    {
+      "atkP" : 24
+    },
+    {
+      "atkP" : 30
+    },
+    {
+      "atkP" : 36
+    },
+    {
+      "atkP" : 42
+    },
+    {
+      "atkP" : 48
+    }
+  ]
+}, {
+  "hp" : 952.0,
+  "atk" : 423.0,
+  "def" : 396.0,
+  "name" : "Shared Feeling",
+  "path" : "Abundance",
+  "rarity" : 4,
+  "pathToImage" : "https://www.prydwen.gg/static/d1b3b003412c188406381141971021f2/bf8e1/45_sm.png",
+  "refinement": [
+    {
+      "healingBoost" : 10
+    },
+    {
+      "healingBoost" : 12.5
+    },
+    {
+      "healingBoost" : 15
+    },
+    {
+      "healingBoost" : 17.5
+    },
+    {
+      "healingBoost" : 20
+    }
+  ]
+}, {
+  "hp" : 846.0,
+  "atk" : 370.0,
+  "def" : 198.0,
+  "name" : "Shattered Home",
+  "path" : "Destruction",
+  "rarity" : 3,
+  "pathToImage" : "https://www.prydwen.gg/static/35ea9a876859ef0f9a7e159c613c28af/bf8e1/31_sm.png"
+}, {
+  "hp" : 1270.0,
+  "atk" : 423.0,
+  "def" : 529.0,
+  "name" : "She Already Shut Her Eyes",
+  "path" : "Preservation",
+  "rarity" : 5,
+  "pathToImage" : "https://www.prydwen.gg/static/1b4a8facf974b2d21a064e62b51a770f/bf8e1/91_sm.png",
+  "refinement": [
+    {
+      "hpP" : 24,
+      "energyRegeneration": 12,
+      "dmgBoost": 9
+    },
+    {
+      "hpP" : 28,
+      "energyRegeneration": 14,
+      "dmgBoost": 10.5
+    },
+    {
+      "hpP" : 32,
+      "energyRegeneration": 16,
+      "dmgBoost": 12
+    },
+    {
+      "hpP" : 36,
+      "energyRegeneration": 18,
+      "dmgBoost": 13.5
+    },
+    {
+      "hpP" : 40,
+      "energyRegeneration": 20,
+      "dmgBoost": 15
+    }
+  ]
+}, {
+  "hp" : 1058.0,
+  "atk" : 582.0,
+  "def" : 463.0,
+  "name" : "Sleep Like the Dead",
+  "path" : "Hunt",
+  "rarity" : 5,
+  "pathToImage" : "https://www.prydwen.gg/static/1d3ff86f1d5fbdc16c3a3b65b630338b/bf8e1/40_sm.png",
+  "_comment": "second condition is not processed",
+  "refinement": [
+    {
+      "critDmg" : 30
+    },
+    {
+      "critDmg" : 35
+    },
+    {
+      "critDmg" : 40
+    },
+    {
+      "critDmg" : 45
+    },
+    {
+      "critDmg" : 45
+    }
+  ]
+}, {
+  "hp" : 1058.0,
+  "atk" : 529.0,
+  "def" : 396.0,
+  "name" : "Solitary Healing",
+  "path" : "Nihility",
+  "rarity" : 5,
+  "pathToImage" : "https://www.prydwen.gg/static/58a82d543b9c11f215bac9b440e78390/bf8e1/80_sm.png",
+  "refinement": [
+    {
+      "breakEffect" : 20,
+      "periodicalDmgBoost": 24
+    },
+    {
+      "breakEffect" : 25,
+      "periodicalDmgBoost": 30
+    },
+    {
+      "breakEffect" : 30,
+      "periodicalDmgBoost": 36
+    },
+    {
+      "breakEffect" : 35,
+      "periodicalDmgBoost": 42
+    },
+    {
+      "breakEffect" : 40,
+      "periodicalDmgBoost": 48
+    }
+  ]
+}, {
+  "hp" : 1164.0,
+  "atk" : 582.0,
+  "def" : 396.0,
+  "name" : "Something Irreplaceable",
+  "path" : "Destruction",
+  "rarity" : 5,
+  "pathToImage" : "https://www.prydwen.gg/static/234a1966d56fa7c386a0fd9bc5969cef/bf8e1/32_sm.png",
+  "refinement": [
+    {
+      "atkP" : 24,
+      "dmgBoost": 24
+    },
+    {
+      "atkP" : 28,
+      "dmgBoost": 28
+    },
+    {
+      "atkP" : 32,
+      "dmgBoost": 32
+    },
+    {
+      "atkP" : 36,
+      "dmgBoost": 36
+    },
+    {
+      "atkP" : 40,
+      "dmgBoost": 40
+    }
+  ]
+}, {
+  "hp" : 952.0,
+  "atk" : 476.0,
+  "def" : 330.0,
+  "name" : "Subscribe for More!",
+  "path" : "Hunt",
+  "rarity" : 4,
+  "pathToImage" : "https://www.prydwen.gg/static/28775441fb27705eed9cc1b657b3d6a2/bf8e1/61.png",
+  "_comment": "second condition is not processed",
+  "refinement": [
+    {
+      "baseAtackDmgBoost" : 24,
+      "skillDmgBoost": 24
+    },
+    {
+      "baseAtackDmgBoost" : 30,
+      "skillDmgBoost": 30
+    },
+    {
+      "baseAtackDmgBoost" : 36,
+      "skillDmgBoost": 36
+    },
+    {
+      "baseAtackDmgBoost" : 42,
+      "skillDmgBoost": 42
+    },
+    {
+      "baseAtackDmgBoost" : 48,
+      "skillDmgBoost": 48
+    }
+  ]
+}, {
+  "hp" : 952.0,
+  "atk" : 476.0,
+  "def" : 330.0,
+  "name" : "Swordplay",
+  "path" : "Hunt",
+  "rarity" : 4,
+  "pathToImage" : "https://www.prydwen.gg/static/68ff0c5fe7ed671b1ce0191f0109e4c4/bf8e1/33_sm.png",
+  "refinement": [
+    {
+      "dmgBoost" : 40
+    },
+    {
+      "dmgBoost" : 50
+    },
+    {
+      "dmgBoost" : 60
+    },
+    {
+      "dmgBoost" : 70
+    },
+    {
+      "dmgBoost" : 80
+    }
+  ]
+}, {
+  "hp" : 1058.0,
+  "atk" : 423.0,
+  "def" : 529.0,
+  "name" : "Texture of Memories",
+  "path" : "Preservation",
+  "rarity" : 5,
+  "pathToImage" : "https://www.prydwen.gg/static/f1fa087c18398e206f64b293828e570c/bf8e1/44_sm.png",
+  "refinement": [
+    {
+      "effectsResist" : 8
+    },
+    {
+      "effectsResist" : 10
+    },
+    {
+      "effectsResist" : 12
+    },
+    {
+      "effectsResist" : 14
+    },
+    {
+      "effectsResist" : 16
+    }
+  ]
+}, {
+  "hp" : 952.0,
+  "atk" : 476.0,
+  "def" : 330.0,
+  "name" : "The Birth of the Self",
+  "path" : "Erudition",
+  "rarity" : 4,
+  "pathToImage" : "https://www.prydwen.gg/static/a2317fe2cad2b22fd1066b449efabafe/bf8e1/35_sm_1_.png",
+  "refinement": [
+    {
+      "bonusAtackDmgBoost" : 36
+    },
+    {
+      "bonusAtackDmgBoost" : 45
+    },
+    {
+      "bonusAtackDmgBoost" : 54
+    },
+    {
+      "bonusAtackDmgBoost" : 63
+    },
+    {
+      "bonusAtackDmgBoost" : 72
+    }
+  ]
+}, {
+  "hp" : 953.0,
+  "atk" : 476.0,
+  "def" : 331.0,
+  "name" : "The Day The Cosmos Fell",
+  "path" : "Erudition",
+  "rarity" : 4,
+  "pathToImage" : "https://www.prydwen.gg/static/81864d061aafa6716a543a1d33a4b39e/bf8e1/116_sm.png",
+  "refinement": [
+    {
+      "atkP" : 16,
+      "critDmg": 20
+    },
+    {
+      "atkP" : 18,
+      "critDmg": 25
+    },
+    {
+      "atkP" : 20,
+      "critDmg": 30
+    },
+    {
+      "atkP" : 22,
+      "critDmg": 35
+    },
+    {
+      "atkP" : 24,
+      "critDmg": 40
+    }
+  ]
+}, {
+  "hp" : 1058.0,
+  "atk" : 476.0,
+  "def" : 264.0,
+  "name" : "The Moles Welcome You",
+  "path" : "Destruction",
+  "rarity" : 4,
+  "pathToImage" : "https://www.prydwen.gg/static/d5312a17d479f54bbdaeead55e017dc9/bf8e1/36_sm.png",
+  "refinement": [
+    {
+      "atkP" : 36
+    },
+    {
+      "atkP" : 45
+    },
+    {
+      "atkP" : 54
+    },
+    {
+      "atkP" : 63
+    },
+    {
+      "atkP" : 72
+    }
+  ]
+}, {
+  "hp" : 846.0,
+  "atk" : 476.0,
+  "def" : 396.0,
+  "name" : "The Seriousness of Breakfast",
+  "path" : "Erudition",
+  "rarity" : 4,
+  "pathToImage" : "https://www.prydwen.gg/static/1a13f10fd98d3bc272a30bf3488c32a7/bf8e1/47_sm.png",
+  "refinement": [
+    {
+      "dmgBoost" : 12,
+      "atkP": 12
+    },
+    {
+      "dmgBoost" : 15,
+      "atkP": 15
+    },
+    {
+      "dmgBoost" : 18,
+      "atkP": 18
+    },
+    {
+      "dmgBoost" : 21,
+      "atkP": 21
+    },
+    {
+      "dmgBoost" : 24,
+      "atkP": 24
+    }
+  ]
+}, {
+  "hp" : 1270.0,
+  "atk" : 582.0,
+  "def" : 330.0,
+  "name" : "The Unreachable Side",
+  "path" : "Destruction",
+  "rarity" : 5,
+  "pathToImage" : "https://www.prydwen.gg/static/0a05052c5b425c80a4327a2515410d28/bf8e1/79_sm.png",
+  "refinement": [
+    {
+      "critRate" : 18,
+      "hpP": 18,
+      "dmgBoost": 24
+    },
+    {
+      "critRate" : 21,
+      "hpP": 21,
+      "dmgBoost": 28
+    },
+    {
+      "critRate" : 24,
+      "hpP": 24,
+      "dmgBoost": 32
+    },
+    {
+      "critRate" : 27,
+      "hpP": 27,
+      "dmgBoost": 36
+    },
+    {
+      "critRate" : 30,
+      "hpP": 30,
+      "dmgBoost": 40
+    }
+  ]
+}, {
+  "hp" : 846.0,
+  "atk" : 370.0,
+  "def" : 529.0,
+  "name" : "This Is Me!",
+  "path" : "Preservation",
+  "rarity" : 4,
+  "pathToImage" : "https://www.prydwen.gg/static/a1dc853200a37a6c0d2cb90edb432af4/bf8e1/50_sm.png",
+  "_comment": "second condition is not processed",
+  "refinement": [
+    {
+      "defP" : 16
+    },
+    {
+      "defP" : 20
+    },
+    {
+      "defP" : 24
+    },
+    {
+      "defP" : 28
+    },
+    {
+      "defP" : 32
+    }
+  ]
+}, {
+  "hp" : 1270.0,
+  "atk" : 476.0,
+  "def" : 463.0,
+  "name" : "Time Waits for No One",
+  "path" : "Abundance",
+  "rarity" : 5,
+  "pathToImage" : "https://www.prydwen.gg/static/22ccbc514e15621686ddfb9a7bdb24ef/bf8e1/41_sm.png",
+  "refinement": [
+    {
+      "hpP" : 18,
+      "healingBoost": 36
+    },
+    {
+      "hpP" : 21,
+      "healingBoost": 42
+    },
+    {
+      "hpP" : 24,
+      "healingBoost": 48
+    },
+    {
+      "hpP" : 27,
+      "healingBoost": 54
+    },
+    {
+      "hpP" : 30,
+      "healingBoost": 60
+    }
+  ]
+}, {
+  "hp" : 846.0,
+  "atk" : 529.0,
+  "def" : 330.0,
+  "name" : "Today Is Another Peaceful Day",
+  "path" : "Erudition",
+  "rarity" : 4,
+  "pathToImage" : "https://www.prydwen.gg/static/dfc5c1637e6749d7db6b56fa8e96a5aa/bf8e1/54_sm.png",
+  "_comment": "second condition is not processed"
+}, {
+  "hp" : 1058.0,
+  "atk" : 370.0,
+  "def" : 396.0,
+  "name" : "Trend of the Universal Market",
+  "path" : "Preservation",
+  "rarity" : 4,
+  "pathToImage" : "https://www.prydwen.gg/static/5fde1224150bb187a40fdd0fe8d4e8f6/bf8e1/60.png",
+  "_comment": "second condition is not processed",
+  "refinement": [
+    {
+      "defP" : 16
+    },
+    {
+      "defP" : 20
+    },
+    {
+      "defP" : 24
+    },
+    {
+      "defP" : 28
+    },
+    {
+      "defP" : 32
+    }
+  ]
+}, {
+  "hp" : 952.0,
+  "atk" : 476.0,
+  "def" : 330.0,
+  "name" : "Under the Blue Sky",
+  "path" : "Destruction",
+  "rarity" : 4,
+  "pathToImage" : "https://www.prydwen.gg/static/3e985b4d44bc0d986bfba9746a2cf344/bf8e1/63_1_.png",
+  "refinement": [
+    {
+      "atkP" : 16,
+      "critRate": 12
+    },
+    {
+      "atkP" : 20,
+      "critRate": 15
+    },
+    {
+      "atkP" : 24,
+      "critRate": 18
+    },
+    {
+      "atkP" : 28,
+      "critRate": 21
+    },
+    {
+      "atkP" : 32,
+      "critRate": 24
+    }
+  ]
+}, {
+  "hp" : 846.0,
+  "atk" : 317.0,
+  "def" : 264.0,
+  "name" : "Void",
+  "path" : "Nihility",
+  "rarity" : 3,
+  "pathToImage" : "https://www.prydwen.gg/static/6d3ecc47acc472655beedc55024ac91c/bf8e1/38_sm.png",
+  "refinement": [
+    {
+      "effectHitRate" : 20
+    },
+    {
+      "effectHitRate" : 25
+    },
+    {
+      "effectHitRate" : 30
+    },
+    {
+      "effectHitRate" : 35
+    },
+    {
+      "effectHitRate" : 40
+    }
+  ]
+}, {
+  "hp" : 1058.0,
+  "atk" : 370.0,
+  "def" : 396.0,
+  "name" : "Warmth Shortens Cold Nights",
+  "path" : "Abundance",
+  "rarity" : 4,
+  "pathToImage" : "https://www.prydwen.gg/static/20204a5c4751d8a8348c87d2cea362cf/bf8e1/48_sm.png",
+  "refinement": [
+    {
+      "hpP" : 16
+    },
+    {
+      "hpP" : 20
+    },
+    {
+      "hpP" : 24
+    },
+    {
+      "hpP" : 28
+    },
+    {
+      "hpP" : 32
+    }
+  ]
+}, {
+  "hp" : 740.0,
+  "atk" : 476.0,
+  "def" : 463.0,
+  "name" : "We Are Wildfire",
+  "path" : "Preservation",
+  "rarity" : 4,
+  "pathToImage" : "https://www.prydwen.gg/static/8230bfde3f38e2ac2adb0e201dff9257/bf8e1/65.png"
+}, {
+  "hp" : 846.0,
+  "atk" : 529.0,
+  "def" : 330.0,
+  "name" : "We Will Meet Again",
+  "path" : "Nihility",
+  "rarity" : 4,
+  "pathToImage" : "https://www.prydwen.gg/static/6b122a8cf4dc3762323edfa3bda10ef1/bf8e1/49_sm.png",
+  "_comment": "second condition is not processed"
+}, {
+  "hp" : 1058.0,
+  "atk" : 423.0,
+  "def" : 331.0,
+  "name" : "What Is Real?",
+  "path" : "Abundance",
+  "rarity" : 4,
+  "pathToImage" : "https://www.prydwen.gg/static/846fb4733efeff65735367c762636f3c/bf8e1/110_sm.png",
+  "refinement": [
+    {
+      "breakEffect" : 24
+    },
+    {
+      "breakEffect" : 30
+    },
+    {
+      "breakEffect" : 36
+    },
+    {
+      "breakEffect" : 42
+    },
+    {
+      "breakEffect" : 48
+    }
+  ]
+}, {
+  "hp" : 952.0,
+  "atk" : 476.0,
+  "def" : 330.0,
+  "name" : "Woof! Walk Time!",
+  "path" : "Destruction",
+  "rarity" : 4,
+  "pathToImage" : "https://www.prydwen.gg/static/bd52ad176b64a86ae3286585483c4a74/bf8e1/46_sm.png",
+  "refinement": [
+    {
+      "atkP" : 10,
+      "dmgBoost": 16
+    },
+    {
+      "atkP" : 12.5,
+      "dmgBoost": 20
+    },
+    {
+      "atkP" : 15,
+      "dmgBoost": 24
+    },
+    {
+      "atkP" : 17.5,
+      "dmgBoost": 28
+    },
+    {
+      "atkP" : 20,
+      "dmgBoost": 32
+    }
+  ]
+}, {
+  "hp" : 1058.0,
+  "atk" : 582.0,
+  "def" : 463.0,
+  "name" : "Worrisome, Blissful",
+  "path" : "Hunt",
+  "rarity" : 5,
+  "pathToImage" : "https://www.prydwen.gg/static/7b92426ebc38dcfcccf1167c7e7bb1f7/bf8e1/84_sm.png",
+  "refinement": [
+    {
+      "critRate" : 18,
+      "bonusAtackDmgBoost": 30,
+      "critDmg": 24
+    },
+    {
+      "critRate" : 21,
+      "bonusAtackDmgBoost": 35,
+      "critDmg": 28
+    },
+    {
+      "critRate" : 24,
+      "bonusAtackDmgBoost": 40,
+      "critDmg": 32
+    },
+    {
+      "critRate" : 27,
+      "bonusAtackDmgBoost": 45,
+      "critDmg": 36
+    },
+    {
+      "critRate" : 30,
+      "bonusAtackDmgBoost": 45,
+      "critDmg": 40
+    }
+  ]
+} ]

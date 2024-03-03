@@ -1,0 +1,1 @@
+java -jar hsr_calculator.jar
