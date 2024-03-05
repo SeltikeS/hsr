@@ -6,6 +6,9 @@
 
 html,
 body {
+  font-family: FiraSans, system-ui, sans-serif;
+  font-size: 16px;
+  line-height: 1.25;
   margin: 0;
   padding: 0;
   height: 100vh;
@@ -23,4 +26,16 @@ h6 {
 
 p {
   margin: 0;
+}
+
+a {
+
+}
+
+a:visited {
+  color: inherit;
+}
+
+a:hover {
+  opacity: 0.9;
 }

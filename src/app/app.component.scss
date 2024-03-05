@@ -1,0 +1,42 @@
+:host {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+
+}
+
+@mixin layout {
+  margin-inline: auto;
+  padding-inline: 1rem;
+  width: min(90rem, 100%);
+}
+
+// Header
+.header {
+  background-color: var(--black);
+  color: var(--gray);
+}
+
+.header__content {
+  @include layout;
+  padding-block: 1rem;
+}
+
+.header__title {
+  font-family: Orbitron, sans-serif;
+  font-size: 2rem;
+  line-height: 1.2;
+}
+
+// Main
+.main {
+  @include layout;
+  flex: 1;
+  padding-block: 1rem;
+}
+
+// Footer
+.footer {
+  @include layout;
+  padding-block: 1rem;
+}
