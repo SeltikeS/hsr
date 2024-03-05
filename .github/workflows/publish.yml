@@ -28,6 +28,8 @@ jobs:
           node-version: 20
           registry-url: https://SeltikeS.github.com/hsr
       - run: npm ci
+      - run: npm run build:ci
+      - run: cd dist/hsr/browser
       - run: npm publish
         env:
           NODE_AUTH_TOKEN: ${{secrets.GITHUB_TOKEN}}
