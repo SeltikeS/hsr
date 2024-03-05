@@ -23,6 +23,7 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: 20
+          registry-url: https://seltikes.github.io/hsr/
 
       - name: Install Dependencies
         run: npm ci
@@ -32,3 +33,8 @@ jobs:
 
       - name: List Files in Distribution Directory
         run: ls -R ./dist
+
+      - name: Publish repository
+        run: npm publish
+        env:
+          NODE_AUTH_TOKEN: ${{secrets.GITHUB_TOKEN}}
