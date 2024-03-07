@@ -1,3 +1,33 @@
 <div class="calculator">
-  <div class="calculator-grid">Div</div>
+  <form class="calculator-grid" [formGroup]="form">
+    @for (item of formItems; track item.getRawValue()) {
+      <div class="calculator-row" [formGroup]="item">
+        <select id="character" formControlName="character">
+          @for (character of characters; track $index) {
+            <option>{{ character }}</option>
+          }
+        </select>
+
+        <select id="edalon" formControlName="edalon">
+          @for (edalon of edalons; track $index) {
+            <option>{{ edalon }}</option>
+          }
+        </select>
+
+        <select id="cone" formControlName="cone">
+          @for (cone of cones; track $index) {
+            <option>{{ cone.name }}</option>
+          }
+        </select>
+
+        <select id="refinement" formControlName="refinement">
+          @for (refinement of refinements; track $index) {
+            <option>{{ refinement }}</option>
+          }
+        </select>
+      </div>
+    }
+  </form>
+
+  <button (click)="onAddNewItem()">Add</button>
 </div>

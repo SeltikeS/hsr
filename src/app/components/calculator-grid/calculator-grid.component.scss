@@ -1,0 +1,17 @@
+.calculator {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.calculator-grid {
+  display: grid;
+  grid-template-columns: 3fr 1fr 3fr 1fr;
+  gap: 1rem;
+}
+
+.calculator-row {
+  display: grid;
+  grid-column: 1 / -1;
+  grid-template-columns: subgrid;
+}

@@ -1,0 +1,23 @@
+button {
+  border: 1px solid var(--black);
+  border-radius: 0.25rem;
+  background-color: var(--black);
+  color: var(--gray);
+  cursor: pointer;
+  padding: 0.5rem;
+  font-family: inherit;
+  font-weight: 600;
+  transition: opacity 0.2s ease-in-out;
+}
+
+button:focus {
+  outline: none;
+}
+
+button:focus-visible {
+  outline: 1px solid var(--black);
+}
+
+button:hover {
+  opacity: 0.9;
+}
