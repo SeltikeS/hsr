@@ -1,11 +1,11 @@
-export const Character = {
+export const CharacterName = {
   Asta: 'Asta',
   Bailu: 'Bailu',
   BlackSwan: 'BlackSwan',
   Blade: 'Blade',
   Bronya: 'Bronya',
   Clara: 'Clara',
-  BrRatio: 'BrRatio',
+  DrRatio: 'DrRatio',
   FuXuan: 'FuXuan',
   Hook: 'Hook',
   Jingliu: 'Jingliu',
@@ -26,4 +26,16 @@ export const Character = {
   Xueyi: 'Xueyi',
   Yukong: 'Yukong',
 } as const;
-export type Character = (typeof Character)[keyof typeof Character];
+export type CharacterName = (typeof CharacterName)[keyof typeof CharacterName];
+
+export const CharacterEdalon = {
+  0: 0,
+  1: 1,
+  2: 2,
+  3: 3,
+  4: 4,
+  5: 5,
+  6: 6,
+} as const;
+export type CharacterEdalon =
+  (typeof CharacterEdalon)[keyof typeof CharacterEdalon];

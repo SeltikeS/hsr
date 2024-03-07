@@ -1,0 +1,24 @@
+select {
+  background-color: var(--gray);
+  border: 1px solid var(--black);
+  cursor: pointer;
+  color: var(--black);
+  border-radius: 0.25rem;
+  padding: 0.5rem;
+  font-family: inherit;
+  font-size: 1rem;
+  line-height: 1.2;
+}
+
+select:focus {
+  outline: none;
+}
+
+select:focus-visible {
+  outline: 1px solid var(--black);
+}
+
+option {
+  font-size: 1rem;
+  line-height: 1.5;
+}

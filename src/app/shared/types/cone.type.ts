@@ -11,3 +11,13 @@ export type ConeType = {
 };
 
 export type ConeRefinementType = Record<string, number>;
+
+export const ConeRefinement = {
+  1: 1,
+  2: 2,
+  3: 3,
+  4: 4,
+  5: 5,
+} as const;
+export type ConeRefinement =
+  (typeof ConeRefinement)[keyof typeof ConeRefinement];
