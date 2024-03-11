@@ -1,32 +1,10 @@
-export const CharacterName = {
-  Asta: 'Asta',
-  Bailu: 'Bailu',
-  BlackSwan: 'BlackSwan',
-  Blade: 'Blade',
-  Bronya: 'Bronya',
-  Clara: 'Clara',
-  DrRatio: 'DrRatio',
-  FuXuan: 'FuXuan',
-  Hook: 'Hook',
-  Jingliu: 'Jingliu',
-  Kafka: 'Kafka',
-  Luka: 'Luka',
-  Luocha: 'Luocha',
-  March7: 'March7',
-  Natasha: 'Natasha',
-  Pela: 'Pela',
-  Quingque: 'Quingque',
-  RuanMei: 'RuanMei',
-  Sampo: 'Sampo',
-  Serval: 'Serval',
-  Sparkle: 'Sparkle',
-  Tingyun: 'Tingyun',
-  Topaz: 'Topaz',
-  Trailblazer: 'Trailblazer',
-  Xueyi: 'Xueyi',
-  Yukong: 'Yukong',
-} as const;
-export type CharacterName = (typeof CharacterName)[keyof typeof CharacterName];
+export type CharacterType = {
+  name: string;
+  rarity: number;
+  element: string;
+  path: string;
+  imgPath: string;
+};
 
 export const CharacterEdalon = {
   0: 0,
@@ -39,3 +17,5 @@ export const CharacterEdalon = {
 } as const;
 export type CharacterEdalon =
   (typeof CharacterEdalon)[keyof typeof CharacterEdalon];
+
+export type CharacterRarity = 4 | 5;

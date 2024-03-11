@@ -7,7 +7,8 @@
     "build": "ng build",
     "build:ci": "ng build --configuration production",
     "watch": "ng build --watch --configuration development",
-    "test": "ng test"
+    "test": "ng test",
+    "server": "cd ./src/server && run_calculator_server.cmd"
   },
   "dependencies": {
     "@angular/animations": "^17.2.0",
