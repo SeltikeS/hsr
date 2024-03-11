@@ -18,9 +18,10 @@ import {
   ReactiveFormsModule,
 } from '@angular/forms';
 import { takeUntilDestroyed } from '@angular/core/rxjs-interop';
-import { debounceTime, map, switchMap } from 'rxjs';
+import { catchError, debounceTime, EMPTY, map, switchMap } from 'rxjs';
 import { CalculateCharacterDto } from '../../api/dto/calculate-character.dto';
 import { CalculatorApiService } from '../../api/service/calculator-api.service';
+import { error } from '@angular/compiler-cli/src/transformers/util';
 
 @Component({
   selector: 'hsr-calculator-grid',
@@ -42,42 +43,67 @@ export class CalculatorGridComponent implements OnInit {
   protected refinements: ConeRefinement[] = Object.values(ConeRefinement);
 
   protected form = new FormGroup({
-    items: new FormArray([this.getEmptyFormItem()]),
+    items: new FormArray([]),
   });
 
   protected get formItems() {
     return this.form.controls.items.controls as FormGroup[];
   }
 
-  public ngOnInit() {
-    this.form.controls.items.valueChanges
-      .pipe(
-        map((items) => {
-          return items.map((item): CalculateCharacterDto => {
-            const form = item as unknown as CalculatorForm;
-            return {
-              name: form?.character?.name,
-              eidolon: form?.edalon,
-              coneName: form?.cone?.name,
-              coneRefinement: form?.refinement,
-              locked: false,
-              ignoreSets: false,
-            };
-          });
+  public ngOnInit() {}
+
+  protected onAddNewItem() {
+    this.formItems.push(this.getEmptyFormItem());
+    this.formItems
+      ?.at(-1)
+      ?.valueChanges.pipe(
+        map((item) => {
+          console.log(item);
+          const form = item as unknown as CalculatorForm;
+          return {
+            name: form?.character,
+            eidolon: form?.edalon,
+            coneName: form?.cone,
+            coneRefinement: form?.refinement,
+            locked: false,
+            ignoreSets: false,
+          };
         }),
         debounceTime(400),
-        switchMap((dtos: CalculateCharacterDto[]) => {
-          return this.calculatorApi.calculate(dtos);
+        switchMap((dto: CalculateCharacterDto) => {
+          if (
+            dto?.name === '' ||
+            dto?.coneName === '' ||
+            (dto?.eidolon as any) === '' ||
+            (dto?.coneRefinement as any) === '' ||
+            dto?.name === '--- select ---' ||
+            dto?.coneName === '--- select ---' ||
+            (dto?.eidolon as any) === '--- select ---' ||
+            (dto?.coneRefinement as any) === '--- select ---'
+          ) {
+            return EMPTY;
+          }
+          return this.calculatorApi
+            .calculate([
+              {
+                ...dto,
+                eidolon: +dto?.eidolon,
+                coneRefinement: +dto?.coneRefinement,
+              },
+            ])
+            .pipe(
+              catchError((error) => {
+                console.error(error);
+                return EMPTY;
+              }),
+            );
         }),
+
         takeUntilDestroyed(this.destroyRef),
       )
       .subscribe((response) => {
         console.log(response);
       });
-  }
-
-  protected onAddNewItem() {
-    this.formItems.push(this.getEmptyFormItem());
   }
 
   private getEmptyFormItem() {
@@ -91,8 +117,8 @@ export class CalculatorGridComponent implements OnInit {
 }
 
 type CalculatorForm = {
-  character: CharacterType;
+  character: string;
   edalon: number;
-  cone: ConeType;
+  cone: string;
   refinement: number;
 };

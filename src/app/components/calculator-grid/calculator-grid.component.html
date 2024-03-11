@@ -3,24 +3,28 @@
     @for (item of formItems; track item.getRawValue()) {
       <div class="calculator-row" [formGroup]="item">
         <select id="character" formControlName="character">
+          <option>--- select ---</option>
           @for (character of characters; track $index) {
             <option>{{ character?.name }}</option>
           }
         </select>
 
         <select id="edalon" formControlName="edalon">
+          <option>--- select ---</option>
           @for (edalon of edalons; track $index) {
             <option>{{ edalon }}</option>
           }
         </select>
 
         <select id="cone" formControlName="cone">
+          <option>--- select ---</option>
           @for (cone of cones; track $index) {
             <option>{{ cone.name }}</option>
           }
         </select>
 
         <select id="refinement" formControlName="refinement">
+          <option>--- select ---</option>
           @for (refinement of refinements; track $index) {
             <option>{{ refinement }}</option>
           }

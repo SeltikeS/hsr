@@ -718,7 +718,7 @@
   "lvl" : 12,
   "slot" : "HEAD",
   "set" : "MESSENGER_TRAVERSING_HACKERSPACE",
-  "location" : "",
+  "location" : "Bronya",
   "oldLocation" : "",
   "subStats" : {
     "ATK" : 19,
@@ -1348,8 +1348,8 @@
   "lvl" : 12,
   "slot" : "HEAD",
   "set" : "MESSENGER_TRAVERSING_HACKERSPACE",
-  "location" : "Bronya",
-  "oldLocation" : "Bronya",
+  "location" : "",
+  "oldLocation" : "",
   "subStats" : {
     "ATK" : 38,
     "CRIT_DMG_PERCENT" : 12.3,
@@ -1614,8 +1614,8 @@
   "lvl" : 12,
   "slot" : "BODY",
   "set" : "MESSENGER_TRAVERSING_HACKERSPACE",
-  "location" : "Bronya",
-  "oldLocation" : "Bronya",
+  "location" : "",
+  "oldLocation" : "",
   "subStats" : {
     "ATK_PERCENT" : 4.3,
     "EFFECT_HIT_RATE_PERCENT" : 3.8,
@@ -1712,7 +1712,7 @@
   "lvl" : 15,
   "slot" : "FEET",
   "set" : "MESSENGER_TRAVERSING_HACKERSPACE",
-  "location" : "Xueyi",
+  "location" : "Bronya",
   "oldLocation" : "Xueyi",
   "subStats" : {
     "DEF" : 21,
@@ -1782,8 +1782,8 @@
   "lvl" : 12,
   "slot" : "HAND",
   "set" : "MESSENGER_TRAVERSING_HACKERSPACE",
-  "location" : "Bronya",
-  "oldLocation" : "Bronya",
+  "location" : "",
+  "oldLocation" : "",
   "subStats" : {
     "HP" : 33,
     "SPD" : 4,
@@ -1950,7 +1950,7 @@
   "lvl" : 12,
   "slot" : "HAND",
   "set" : "MESSENGER_TRAVERSING_HACKERSPACE",
-  "location" : "",
+  "location" : "Bronya",
   "oldLocation" : "",
   "subStats" : {
     "DEF_PERCENT" : 4.3,
@@ -1992,7 +1992,7 @@
   "lvl" : 15,
   "slot" : "BODY",
   "set" : "MESSENGER_TRAVERSING_HACKERSPACE",
-  "location" : "",
+  "location" : "Bronya",
   "oldLocation" : "",
   "subStats" : {
     "HP_PERCENT" : 4.3,
@@ -2818,8 +2818,8 @@
   "lvl" : 15,
   "slot" : "FEET",
   "set" : "MESSENGER_TRAVERSING_HACKERSPACE",
-  "location" : "Bronya",
-  "oldLocation" : "Bronya",
+  "location" : "Xueyi",
+  "oldLocation" : "Xueyi",
   "subStats" : {
     "HP_PERCENT" : 10.8,
     "CRIT_DMG_PERCENT" : 6.4,
