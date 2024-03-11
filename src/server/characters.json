@@ -1,0 +1,289 @@
+[ {
+  "name" : "Jing Yuan",
+  "rarity" : 5,
+  "element" : "Lightning",
+  "path" : "Erudition",
+  "imgPath" : "https://www.prydwen.gg/static/23b51180bbbc53d0cebbbc3e192468b6/e9a79/22_sm.png"
+}, {
+  "name" : "Qingque",
+  "rarity" : 4,
+  "element" : "Quantum",
+  "path" : "Erudition",
+  "imgPath" : "https://www.prydwen.gg/static/0434369b1146936d32c51d5f265d17dc/e9a79/26_sm.png"
+}, {
+  "name" : "Dan Heng Imbibitor Lunae",
+  "rarity" : 5,
+  "element" : "Imaginary",
+  "path" : "Destruction",
+  "imgPath" : "https://www.prydwen.gg/static/4604f205c9f9e6cf4a1d8b90943b8ed6/e9a79/34_sm.png"
+}, {
+  "name" : "Sparkle",
+  "rarity" : 5,
+  "element" : "Quantum",
+  "path" : "Harmony",
+  "imgPath" : "https://www.prydwen.gg/static/c52297074e0c2fff0184fe534ac31617/e9a79/47_sm.png"
+}, {
+  "name" : "Sushang",
+  "rarity" : 4,
+  "element" : "Physical",
+  "path" : "Hunt",
+  "imgPath" : "https://www.prydwen.gg/static/fb77ae92a3803222046cc60021e7c62d/e9a79/27_sm.png"
+}, {
+  "name" : "Yanqing",
+  "rarity" : 5,
+  "element" : "Ice",
+  "path" : "Hunt",
+  "imgPath" : "https://www.prydwen.gg/static/15b2a8be678745987353625378ee8dba/e9a79/23_sm.png"
+}, {
+  "name" : "Topaz & Numby",
+  "rarity" : 5,
+  "element" : "Fire",
+  "path" : "Hunt",
+  "imgPath" : "https://www.prydwen.gg/static/0ab4d7f7d2a2e2afc7c5979531904fe1/e9a79/38_sm.png"
+}, {
+  "name" : "Dan Heng",
+  "rarity" : 4,
+  "element" : "Wind",
+  "path" : "Hunt",
+  "imgPath" : "https://www.prydwen.gg/static/857b2b1906680674db70981176f31474/e9a79/4_sm.png"
+}, {
+  "name" : "Dr Ratio",
+  "rarity" : 5,
+  "element" : "Imaginary",
+  "path" : "Hunt",
+  "imgPath" : "https://www.prydwen.gg/static/26f302952d6728c2b270c9160566e614/e9a79/44_sm.png"
+}, {
+  "name" : "Argenti",
+  "rarity" : 5,
+  "element" : "Physical",
+  "path" : "Erudition",
+  "imgPath" : "https://www.prydwen.gg/static/6f3ad2228d4d02953475c5452230ef63/e9a79/45_sm.png"
+}, {
+  "name" : "Serval",
+  "rarity" : 4,
+  "element" : "Lightning",
+  "path" : "Erudition",
+  "imgPath" : "https://www.prydwen.gg/static/a0516274fafc8275ef10cbf994bf7508/e9a79/14_sm.png"
+}, {
+  "name" : "Herta",
+  "rarity" : 4,
+  "element" : "Ice",
+  "path" : "Erudition",
+  "imgPath" : "https://www.prydwen.gg/static/183866486154f984ec92b8eedf87d7c6/e9a79/11_sm.png"
+}, {
+  "name" : "Himeko",
+  "rarity" : 5,
+  "element" : "Fire",
+  "path" : "Erudition",
+  "imgPath" : "https://www.prydwen.gg/static/f321ebceb88e9b1f2f0cff4861aca551/e9a79/5_sm.png"
+}, {
+  "name" : "Misha",
+  "rarity" : 4,
+  "element" : "Ice",
+  "path" : "Destruction",
+  "imgPath" : "https://www.prydwen.gg/static/1c101774bd4bc4d684a0c206a9705a31/e9a79/48_sm.png"
+}, {
+  "name" : "Blade",
+  "rarity" : 5,
+  "element" : "Wind",
+  "path" : "Destruction",
+  "imgPath" : "https://www.prydwen.gg/static/f2663c739baa73864052b7c8daff327b/e9a79/28_sm.png"
+}, {
+  "name" : "Hook",
+  "rarity" : 4,
+  "element" : "Fire",
+  "path" : "Destruction",
+  "imgPath" : "https://www.prydwen.gg/static/fb5d610b2d0eb7b35b461f4ae5166bca/e9a79/20_sm.png"
+}, {
+  "name" : "Arlan",
+  "rarity" : 4,
+  "element" : "Lightning",
+  "path" : "Destruction",
+  "imgPath" : "https://www.prydwen.gg/static/be47706d98abd13b49d629e53540c269/e9a79/9_sm.png"
+}, {
+  "name" : "Jingliu",
+  "rarity" : 5,
+  "element" : "Ice",
+  "path" : "Destruction",
+  "imgPath" : "https://www.prydwen.gg/static/90e9d33472fcc0b7fbd1251cd0beb6e5/e9a79/35_sm.png"
+}, {
+  "name" : "Xueyi",
+  "rarity" : 4,
+  "element" : "Quantum",
+  "path" : "Destruction",
+  "imgPath" : "https://www.prydwen.gg/static/255178791ab42f44cb633b15df66c30f/e9a79/45_sm.png"
+}, {
+  "name" : "Trailblazer (Physical)",
+  "rarity" : 5,
+  "element" : "Physical",
+  "path" : "Destruction",
+  "imgPath" : "https://www.prydwen.gg/static/6b5c908dc6251ca612876b40a1f87c9a/e9a79/1_sm.png"
+}, {
+  "name" : "Bailu",
+  "rarity" : 5,
+  "element" : "Lightning",
+  "path" : "Abundance",
+  "imgPath" : "https://www.prydwen.gg/static/d7966d5a139339f40b379cffd4d13cf8/e9a79/24_sm.png"
+}, {
+  "name" : "Huohuo",
+  "rarity" : 5,
+  "element" : "Wind",
+  "path" : "Abundance",
+  "imgPath" : "https://www.prydwen.gg/static/35eddc3b09b3d2c610af2013992e732f/e9a79/40.png"
+}, {
+  "name" : "Luocha",
+  "rarity" : 5,
+  "element" : "Imaginary",
+  "path" : "Abundance",
+  "imgPath" : "https://www.prydwen.gg/static/3db1e95f0be0c78a233f851614ff4620/e9a79/21_sm.png"
+}, {
+  "name" : "Lynx",
+  "rarity" : 4,
+  "element" : "Quantum",
+  "path" : "Abundance",
+  "imgPath" : "https://www.prydwen.gg/static/033124afa0122cd8b0ae20b533140ec5/e9a79/35_sm.png"
+}, {
+  "name" : "Natasha",
+  "rarity" : 4,
+  "element" : "Physical",
+  "path" : "Abundance",
+  "imgPath" : "https://www.prydwen.gg/static/9dcedbe8b82ddc53e6392b76750a2225/e9a79/16_sm.png"
+}, {
+  "name" : "Fu Xuan",
+  "rarity" : 5,
+  "element" : "Quantum",
+  "path" : "Preservation",
+  "imgPath" : "https://www.prydwen.gg/static/e454e011effe543ecd5f2706541c8cbb/e9a79/29_sm.png"
+}, {
+  "name" : "March 7th",
+  "rarity" : 4,
+  "element" : "Ice",
+  "path" : "Preservation",
+  "imgPath" : "https://www.prydwen.gg/static/63e84a0b75c737e0499f63f57b48c4d9/e9a79/3_sm.png"
+}, {
+  "name" : "Asta",
+  "rarity" : 4,
+  "element" : "Fire",
+  "path" : "Harmony",
+  "imgPath" : "https://www.prydwen.gg/static/cae9b5e5ada7da3d4432d0e1d01dbf4d/e9a79/10_sm.png"
+}, {
+  "name" : "Bronya",
+  "rarity" : 5,
+  "element" : "Wind",
+  "path" : "Harmony",
+  "imgPath" : "https://www.prydwen.gg/static/3c0e87556bcf541135c909a18f87ec6a/e9a79/12_sm.png"
+}, {
+  "name" : "Tingyun",
+  "rarity" : 4,
+  "element" : "Lightning",
+  "path" : "Harmony",
+  "imgPath" : "https://www.prydwen.gg/static/03bcec36a01c78f33767b7098f6fa1f0/e9a79/25_sm.png"
+}, {
+  "name" : "Silver Wolf",
+  "rarity" : 5,
+  "element" : "Quantum",
+  "path" : "Nihility",
+  "imgPath" : "https://www.prydwen.gg/static/46b350599121f6a83272a0635061d071/e9a79/8_sm.png"
+}, {
+  "name" : "Kafka",
+  "rarity" : 5,
+  "element" : "Lightning",
+  "path" : "Nihility",
+  "imgPath" : "https://www.prydwen.gg/static/5eaaf9ec3518805762b5f5a69091d86c/e9a79/7_sm.png"
+}, {
+  "name" : "Sampo",
+  "rarity" : 4,
+  "element" : "Wind",
+  "path" : "Nihility",
+  "imgPath" : "https://www.prydwen.gg/static/0b758a75ced25955b92c9f055b71c87f/e9a79/19_sm.png"
+}, {
+  "name" : "Welt",
+  "rarity" : 5,
+  "element" : "Imaginary",
+  "path" : "Nihility",
+  "imgPath" : "https://www.prydwen.gg/static/b24ce106a4a283e6cf1a077413fbf9d0/e9a79/6_sm.png"
+}, {
+  "name" : "Pela",
+  "rarity" : 4,
+  "element" : "Ice",
+  "path" : "Nihility",
+  "imgPath" : "https://www.prydwen.gg/static/b8f7e6d5e067908eea06f4286a3381fa/e9a79/17_sm.png"
+}, {
+  "name" : "Luka",
+  "rarity" : 4,
+  "element" : "Physical",
+  "path" : "Nihility",
+  "imgPath" : "https://www.prydwen.gg/static/ce5be2a99d02f129514fd55e5db8f1a7/e9a79/33_sm.png"
+}, {
+  "name" : "Black Swan",
+  "rarity" : 5,
+  "element" : "Wind",
+  "path" : "Nihility",
+  "imgPath" : "https://www.prydwen.gg/static/f3045047e4708b372aff23fe67fe63d7/e9a79/46_sm.png"
+}, {
+  "name" : "Seele",
+  "rarity" : 5,
+  "element" : "Quantum",
+  "path" : "Hunt",
+  "imgPath" : "https://www.prydwen.gg/static/7bf27624888af02b16ed1ad2fdec10f2/e9a79/13_sm.png"
+}, {
+  "name" : "Clara",
+  "rarity" : 5,
+  "element" : "Physical",
+  "path" : "Destruction",
+  "imgPath" : "https://www.prydwen.gg/static/a3d2d3e7db3d202b575b6fa1d95baf2c/e9a79/18_sm.png"
+}, {
+  "name" : "Hanya",
+  "rarity" : 4,
+  "element" : "Physical",
+  "path" : "Harmony",
+  "imgPath" : "https://www.prydwen.gg/static/a4e55e309e35bc1f4d5ed3808c8dcf51/e9a79/42_sm.png"
+}, {
+  "name" : "Yukong",
+  "rarity" : 4,
+  "element" : "Imaginary",
+  "path" : "Harmony",
+  "imgPath" : "https://www.prydwen.gg/static/f64318898539865f4a119bb65074bf3d/e9a79/32_sm.png"
+}, {
+  "name" : "Ruan Mei",
+  "rarity" : 5,
+  "element" : "Ice",
+  "path" : "Harmony",
+  "imgPath" : "https://www.prydwen.gg/static/ab077ecba896b3a6d406c1c170a7a471/e9a79/43_sm.png"
+}, {
+  "name" : "Trailblazer (Fire)",
+  "rarity" : 5,
+  "element" : "Fire",
+  "path" : "Preservation",
+  "imgPath" : "https://www.prydwen.gg/static/f281340b8caf10e5fa31e866d24db699/e9a79/2_sm.png"
+}, {
+  "name" : "Gepard",
+  "rarity" : 5,
+  "element" : "Ice",
+  "path" : "Preservation",
+  "imgPath" : "https://www.prydwen.gg/static/cff01461a4e4266e9b213e4d73c6c5c3/e9a79/15_sm.png"
+}, {
+  "name" : "Guinaifen",
+  "rarity" : 4,
+  "element" : "Fire",
+  "path" : "Nihility",
+  "imgPath" : "https://www.prydwen.gg/static/07509883d6b64f8a05a31f0b27f5367e/e9a79/39_sm.png"
+}, {
+  "name" : "Acheron",
+  "rarity" : 5,
+  "element" : "Lightning",
+  "path" : "Nihility",
+  "imgPath" : "https://www.prydwen.gg/static/dfb18cf34a31662aa1393c25266ed749/e9a79/47_sm.png"
+}, {
+  "name" : "Aventurine",
+  "rarity" : 5,
+  "element" : "Imaginary",
+  "path" : "Preservation",
+  "imgPath" : "https://www.prydwen.gg/static/dcca4d5456bea16990c25fe298a80e41/e9a79/50_sm.png"
+}, {
+  "name" : "Gallagher",
+  "rarity" : 4,
+  "element" : "Fire",
+  "path" : "Abundance",
+  "imgPath" : "https://www.prydwen.gg/static/014e5fd9e1557e4dbef87ae673e12116/60b4d/51_sm.webp"
+} ]
